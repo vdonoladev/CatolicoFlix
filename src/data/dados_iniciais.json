@@ -1,0 +1,214 @@
+{
+  "categorias": [
+    {
+      "titulo": "Homilia diária",
+      "link": "https://www.youtube.com/embed/lid7XND3Tlc",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Guia do Católico",
+          "url": "https://www.youtube.com/embed/lid7XND3Tlc"
+        },
+        {
+          "titulo": "Homilia Diária - 30/04",
+          "url": "https://www.youtube.com/embed/odWQr0-s0Es"
+        },
+        {
+          "titulo": "Homilia Diária - 29/04",
+          "url": "https://www.youtube.com/embed/HUzov1B2RRg"
+
+        },
+        {
+          "titulo": "Homilia Diária - 28/04",
+          "url": "https://www.youtube.com/embed/T0mII4to4wo"
+        },
+        {
+          "titulo": "Homilia Diária - 27/04",
+          "url": "https://www.youtube.com/embed/uPvo32w_mO0"
+        },
+        {
+          "titulo": "Homilia Diária - 26/04",
+          "url": "https://www.youtube.com/embed/tu1C0Rx410Y"
+        },
+        {
+          "titulo": "Homilia Dominical - 25/04",
+          "url": "https://www.youtube.com/embed/n9BBtx7bsZA"
+        },
+        {
+          "titulo": "Homilia Diária - 24/04",
+          "url": "https://www.youtube.com/embed/Oy7va7ZY6HE"
+        }        
+      ]
+    },
+    {
+      "titulo": "Padre Paulo Ricardo",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Aprenda a rezar o Terço",
+          "url": "https://www.youtube.com/embed/fSIr2iftPUo"
+        },
+        {
+          "titulo": "Como combater as distrações durante a oração?",
+          "url": "https://www.youtube.com/embed/hvFc7OFtGFo"
+        },
+        {
+          "titulo": "Direção Espiritual: Aprenda a rezar",
+          "url": "https://www.youtube.com/embed/-jiC3hV3cEg"
+        },
+        {
+          "titulo": "Como fazer uma boa Confissão?",
+          "url": "https://www.youtube.com/embed/IQa4Pg2onX0"
+        }, 
+        {
+          "titulo": "Por que sou católico?",
+          "url": "https://www.youtube.com/embed/fnJNs_0mlro"
+        },
+        {
+          "titulo": "Direção Espiritual: A dificuldade de amar",
+          "url": "https://www.youtube.com/embed/T9aUGMELcdo"
+        },
+        {
+          "titulo": "Feminismo, o maior inimigo das mulheres",
+          "url": "https://www.youtube.com/embed/80JuBmps6Qk"
+        }
+      ]
+    },
+    {
+      "titulo": "Padre Leonardo",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Como discernir o pecado mortal do venial?",
+          "url": "https://www.youtube.com/embed/yJK0kL_WbNU"
+        },
+        {
+          "titulo": "Como confessar os pecados sexuais?",
+          "url": "https://www.youtube.com/embed/5MUlIUic5yE"
+        },
+        {
+          "titulo": "VOCÊ JÁ É CONVERTIDO? - As etapas da conversão.",
+          "url": "https://www.youtube.com/embed/GopwpQq82zI"
+        },
+        {
+          "titulo": "Como purificar a MEMÓRIA E IMAGINAÇÃO dos PENSAMENTOS IMPUROS",
+          "url": "https://www.youtube.com/embed/dQao3ScMaOE"
+        },
+        {
+          "titulo": "A perseguição aos jovens conservadores!",
+          "url": "https://www.youtube.com/embed/4KpBwnb69h0"
+        },
+        {
+          "titulo": "Como nós podemos PECAR pelo olhar?",
+          "url": "https://www.youtube.com/embed/ZwIaKPM_Z6M"
+        },
+        {
+          "titulo": "HOMOSSEXUAIS são acolhidos na IGREJA?",
+          "url": "https://www.youtube.com/embed/ZcnH9HxgwD8"
+        }
+      ]
+    },
+    {
+      "titulo": "Marcos Natan",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "TATUAGEM, pode ou não pode? De uma vez por todas.",
+          "url": "https://www.youtube.com/embed/9m2L9pwvquE"
+        },
+        {
+          "titulo": "30 FATOS SOBRE SÃO PADRE PIO",
+          "url": "https://www.youtube.com/embed/4tSp7TDQFUk"
+        },
+        {
+          "titulo": "Você precisa ter mais fome de Deus",
+          "url": "https://www.youtube.com/embed/P44n3NKUBBU"
+        },
+        {
+          "titulo": "Ninguém é Cheio de Deus, sendo cheio de Si.",
+          "url": "https://www.youtube.com/embed/GFrHFN1_cEc"
+        },
+        {
+          "titulo": "DEUS QUER TE MUDAR DA ÁGUA PARA O VINHO",
+          "url": "https://www.youtube.com/embed/j8lM5ZJ_BMk"
+        },
+        {
+          "titulo": "UM SANTO QUE TENTOU SUICÍDIO",
+          "url": "https://www.youtube.com/embed/n2yg8RXazs8"
+        },
+        {
+          "titulo": "As TRÊS FASES na caminhada com Deus",
+          "url": "https://www.youtube.com/embed/PC20mslZQVk"
+        }
+      ]
+    },
+    {
+      "titulo": "Brasil Paralelo",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "1964 - O Brasil entre armas e livros",
+          "url": "https://www.youtube.com/embed/yTenWQHRPIg"
+        },
+        {
+          "titulo": "Capítulo 1: Panorama Brasil - Um Raio X Inconveniente | Congresso Brasil Paralelo",
+          "url": "https://www.youtube.com/embed/IFwpn7kjIWU"
+        },
+        {
+          "titulo": "Capítulo 2: Terra de Santa Cruz | Congresso Brasil Paralelo",
+          "url": "https://www.youtube.com/embed/8CYt95y5fUU"
+        },
+        {
+          "titulo": "Capítulo 3: As Raízes do Problema | Congresso Brasil Paralelo |",
+          "url": "https://www.youtube.com/embed/PFV3AW5IlgI"
+        },
+        {
+          "titulo": "Capítulo 4: Dividindo pessoas, centralizando o Poder | Congresso Brasil Paralelo",
+          "url": "https://www.youtube.com/embed/JYu8vpDTqIE"
+        },
+        {
+          "titulo": "Capítulo 5: Propostas | Congresso Brasil Paralelo",
+          "url": "https://www.youtube.com/embed/blP5dwv_huk"
+        },
+        {
+          "titulo": "Capítulo 6: Impeachment: do Apogeu à Queda | Congresso Brasil Paralelo",
+          "url": "https://www.youtube.com/embed/PZtwu0IWWHY"
+        }
+      ]
+    },
+    {
+      "titulo": "Diversos",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "A fumaça de SATANÁS nas Missas",
+          "url": "https://www.youtube.com/embed/sBSyA_QXApw"
+        },
+        {
+          "titulo": "O Protestantismo",
+          "url": "https://www.youtube.com/embed/VbhYT-jRYK0"
+        },
+        {
+          "titulo": "Sentimentalismo e vida de oração",
+          "url": "https://www.youtube.com/embed/iukoFAAP6eE"
+        },
+        {
+          "titulo": "Catequese: Uma resposta às grandes perguntas",
+          "url": "https://www.youtube.com/embed/XQGZaxU5j5M"
+        },
+        {
+          "titulo": "Santa Missa Tridentina",
+          "url": "https://www.youtube.com/embed/4uB-IX3U1Ls"
+        },
+        {
+          "titulo": "Por que os brasileiros leem pouco? | Rodrigo Gurgel",
+          "url": "https://www.youtube.com/embed/tHlxkOvg_YU"
+        },
+        {
+          "titulo": "Por que Karl Marx estava errado?",
+          "url": "https://www.youtube.com/embed/bTCOTJ5YEZQ"
+        }
+      ]
+    }
+  ]
+}
