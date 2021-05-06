@@ -11,7 +11,7 @@ function Menu(){
         
         <nav className="Menu">
             <Link to="/">
-            <img className="Logo" src={Logo} alt='CatolicoFlix logo'/>
+            <img className="Logo" src={Logo} alt='CatolicoFlix Logo'/>
 
             </Link>
 
