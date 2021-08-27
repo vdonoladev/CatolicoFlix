@@ -15,9 +15,9 @@ function Menu(){
 
             </Link>
 
-            {/* <ButtonLink as={Link} className="ButtonLink" href="/cadastro/video">
+            <ButtonLink as={Link} className="ButtonLink" href="/cadastro/video">
                 Novo video
-            </ButtonLink> */}
+            </ButtonLink>
         </nav>
 
     );
