@@ -7,7 +7,7 @@ import BannerMain from './components/BannerMain'
 
 function App() {
   return (
-    <div style={{ background: "#141414" }}>
+    <div style={{ background: "#141430" }}>
       <Menu />
     
     <BannerMain
