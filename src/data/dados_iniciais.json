@@ -44,6 +44,10 @@
       "cor": "#C08F29",
       "videos": [
         {
+          "titulo": "A extraordinária conversão de Santo Agostinho",
+          "url": "https://www.youtube.com/watch?v=VGMz3PnR4TQ"
+        },
+        {
           "titulo": "É possível ter uma família numerosa hoje?",
           "url": "https://www.youtube.com/watch?v=6OmEzPJ5O4w"
         },
@@ -66,10 +70,6 @@
         {
           "titulo": "Aprenda a rezar na prática!",
           "url": "https://www.youtube.com/watch?v=6tQvKilPrZc"
-        },
-        {
-          "titulo": "Vida religiosa: 'Fábrica de Santos'",
-          "url": "https://www.youtube.com/watch?v=IzDsBn_C1Ss"
         }
       ]
     },
