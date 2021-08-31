@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 31/08",
+          "url": "https://www.youtube.com/watch?v=Vpkax_iQIDY"
+        },
+        {
           "titulo": "Homilia Diária - 30/08",
           "url": "https://www.youtube.com/watch?v=ZZ6v4ej5cPU"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 25/08",
           "url": "https://www.youtube.com/watch?v=iyqXv83dP-c"
-        },
-        {
-          "titulo": "Homilia Diária - 24/08",
-          "url": "https://www.youtube.com/watch?v=V6CTpkrgz-A"
         }
       ]
     },
@@ -43,6 +43,10 @@
       "titulo": "Padre Paulo Ricardo",
       "cor": "#C08F29",
       "videos": [
+        {
+          "titulo": "Oração: a porta da santidade",
+          "url": "https://www.youtube.com/watch?v=bZ_TP8Vg-es"
+        },
         {
           "titulo": "A extraordinária conversão de Santo Agostinho",
           "url": "https://www.youtube.com/watch?v=VGMz3PnR4TQ"
@@ -66,10 +70,6 @@
         {
           "titulo": "Como a Virgem Maria realmente age em nossa vida?",
           "url": "https://www.youtube.com/watch?v=ZQVYi8Ouwa8"
-        },
-        {
-          "titulo": "Aprenda a rezar na prática!",
-          "url": "https://www.youtube.com/watch?v=6tQvKilPrZc"
         }
       ]
     },
@@ -78,8 +78,8 @@
       "cor": "#1A293A",
       "videos": [
         {
-          "titulo": "Quais as condições necessárias para uma confissão válida? - Projeto 11:15 #011",
-          "url": "https://www.youtube.com/watch?v=ir0aLHPUPNQ"
+          "titulo": "O que é a CONTRIÇÃO PERFEITA e como fazer para alcançar essa graça? - Projeto 11:15 #003",
+          "url": "https://www.youtube.com/watch?v=ciMrWbXILtk"
         },
         {
           "titulo": "Direção espiritual não é o que você pensa! Saiba como fazer corretamente!",
