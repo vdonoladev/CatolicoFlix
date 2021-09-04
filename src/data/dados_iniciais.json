@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Dominical - 05/09",
+          "url": "https://www.youtube.com/watch?v=CJYm6gGr1v4"
+        }
+        {
           "titulo": "Homilia Diária - 04/09",
           "url": "https://www.youtube.com/watch?v=I5ILxxSbKQ4"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 30/08",
           "url": "https://www.youtube.com/watch?v=ZZ6v4ej5cPU"
-        },
-        {
-          "titulo": "Homilia Dominical - 29/08",
-          "url": "https://www.youtube.com/watch?v=lk42LZcPIwE"
         }
       ]
     },
@@ -43,6 +43,10 @@
       "titulo": "Padre Paulo Ricardo",
       "cor": "#C08F29",
       "videos": [
+        {
+          "titulo": "Prepare para decolar!",
+          "url": "https://www.youtube.com/watch?v=gZYabLpRKm8"
+        },
         {
           "titulo": "Escolhi ser dona de casa, mas minha família não aceita. O que faço?",
           "url": "https://www.youtube.com/watch?v=2I3xC7myO9U"
@@ -66,10 +70,6 @@
         {
           "titulo": "O que não pode faltar na catequese?",
           "url": "https://www.youtube.com/watch?v=BnPp0LJr7Vg"
-        },
-        {
-          "titulo": "Estas coisas provam a vocação divina do Brasil!",
-          "url": "https://www.youtube.com/watch?v=kX04qpBX5Vg"
         }
       ]
     },
