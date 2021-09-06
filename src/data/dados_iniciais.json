@@ -44,6 +44,10 @@
       "cor": "#C08F29",
       "videos": [
         {
+          "titulo": "Uma direção espiritual coletiva?",
+          "url": "https://www.youtube.com/watch?v=C4kuMaJPuSs"
+        },
+        {
           "titulo": "Prepare para decolar!",
           "url": "https://www.youtube.com/watch?v=gZYabLpRKm8"
         },
@@ -66,10 +70,6 @@
         {
           "titulo": "Esta confissão do Padre Paulo Ricardo pode ajudar você!",
           "url": "https://www.youtube.com/watch?v=TJoZaMkDTyc"
-        },
-        {
-          "titulo": "O que não pode faltar na catequese?",
-          "url": "https://www.youtube.com/watch?v=BnPp0LJr7Vg"
         }
       ]
     },
