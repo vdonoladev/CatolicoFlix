@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 06/09",
+          "url": "https://www.youtube.com/watch?v=QZjXY6Byqeg"
+        },
+        {
           "titulo": "Homilia Dominical - 05/09",
           "url": "https://www.youtube.com/watch?v=CJYm6gGr1v4"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 31/08",
           "url": "https://www.youtube.com/watch?v=Vpkax_iQIDY"
-        },
-        {
-          "titulo": "Homilia Diária - 30/08",
-          "url": "https://www.youtube.com/watch?v=ZZ6v4ej5cPU"
         }
       ]
     },
@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "Uma visão transcendente da Independência do Brasil - Ibsen Noronha",
+          "url": "https://www.youtube.com/watch?v=UEP9Cf06ygA"
+        },
+        {
           "titulo": "Uma prova da existência de Deus por minuto!",
           "url": "https://www.youtube.com/watch?v=SgQpNU1zlEU"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "São Luís: O Rei da Coroa de Espinhos - Prof. Lucas Lancaster",
           "url": "https://www.youtube.com/watch?v=DDttfQncvB0"
-        },
-        {
-          "titulo": "Uma ajuda para entender a Suma Teológica",
-          "url": "https://www.youtube.com/watch?v=mw-neLfLyxk"
         }
       ]
     },
@@ -179,6 +179,10 @@
       "titulo": "FSSPX Portugal",
       "cor": "#E00507",
       "videos": [
+        {
+          "titulo": "Gnosticismo da Reencarnação",
+          "url": "https://www.youtube.com/watch?v=Mf8qilNuLEU"
+        },
         {
           "titulo": "Os Inimigos da Alma",
           "url": "https://www.youtube.com/watch?v=vr-UioCfUAY"
@@ -202,10 +206,6 @@
         {
           "titulo": "A Graça Gratuita",
           "url": "https://www.youtube.com/watch?v=kzy1antX3d0"
-        },
-        {
-          "titulo": "Traditionis Custodes",
-          "url": "https://www.youtube.com/watch?v=PZZ2BwH6j_E"
         }
       ]
     }
