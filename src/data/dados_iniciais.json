@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "Lições da primeira missa para o dia de hoje!",
+          "url": "https://www.youtube.com/watch?v=alm_RfEMBcs"
+        },
+        {
           "titulo": "Um chamado especial para o seu filho!",
           "url": "https://www.youtube.com/watch?v=3hCfVWIH6ZY"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "Aprenda a 'dialogar' com Dom Jaime Spengler",
           "url": "https://www.youtube.com/watch?v=EbqRPEiNZBI"
-        },
-        {
-          "titulo": "Como discernir o pastor dos lobos infiltrados na Igreja?",
-          "url": "https://www.youtube.com/watch?v=_IMW5-9LNxs"
         }
       ]
     },
