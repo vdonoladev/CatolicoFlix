@@ -208,6 +208,74 @@
           "url": "https://www.youtube.com/watch?v=kzy1antX3d0"
         }
       ]
+    },
+    {
+      "titulo": "Padre Françoá Costa",
+      "cor": "#EA9506",
+      "videos": [
+        {
+          "titulo": "2. Jesus Cristo, perfeito Deus e perfeito homem",
+          "url": "https://www.youtube.com/watch?v=wD2gcyVpD3w"
+        },
+        {
+          "titulo": "Gn 2,7; Dt 9,10; Jr 31,33, Mc 7,31-37 tem a ver com o modelar e remodelar do ser humano",
+          "url": "https://www.youtube.com/watch?v=weNbhxrIBIc"
+        },
+        {
+          "titulo": "Apostolikè Parádosis = Tradição dos Apóstolos",
+          "url": "https://www.youtube.com/watch?v=Ul915S5faEg"
+        },
+        {
+          "titulo": "Gn 4,25-26: Você sabe quem foi o primeiro a rezar?",
+          "url": "https://www.youtube.com/watch?v=Hw4a5ph-5bE"
+        },
+        {
+          "titulo": "1. Cristologia e história",
+          "url": "https://www.youtube.com/watch?v=EJQAE5lyodA"
+        },
+        {
+          "titulo": "Umas tradições que nos levam a pensar diversos fatos atuais",
+          "url": "https://www.youtube.com/watch?v=6xIEbr8aoHM"
+        },
+        {
+          "titulo": "São Justino escreve no século II, ano 150, sobre a estrutura da Santa Missa.",
+          "url": "https://www.youtube.com/watch?v=apimMOrm9_I"
+        }
+      ]
+    },
+    {
+      "titulo": "Bernardo P Küster",
+      "cor": "#3F9C7A",
+      "videos": [
+        {
+          "titulo": "Já raiou a liberdade no horizonte do Brasil",
+          "url": "https://www.youtube.com/watch?v=r_A8mbjt-vk"
+        },
+        {
+          "titulo": "TAPA CULTURAL #10 - Povo nas ruas, a nova independência.",
+          "url": "https://www.youtube.com/watch?v=TL6fYWB8l4Q"
+        },
+        {
+          "titulo": "CPAC Brasil 2021 - Dia 1",
+          "url": "https://www.youtube.com/watch?v=GWGbS2z_qlM"
+        },
+        {
+          "titulo": "TAPA CULTURAL #09 - Por que Brasília?",
+          "url": "https://www.youtube.com/watch?v=RD2TXzwnAXE"
+        },
+        {
+          "titulo": "Cinco anos do impeachment: e agora, direita?",
+          "url": "https://www.youtube.com/watch?v=UJ8IpVBPhpM"
+        },
+        {
+          "titulo": "TAPA CULTURAL #08 - País e mídia independentes = Povo Livre",
+          "url": "https://www.youtube.com/watch?v=xorSQU54QO0"
+        },
+        {
+          "titulo": "TAPA CULTURAL #07 - Artigo 142 - O que é ditadura, afinal?",
+          "url": "https://www.youtube.com/watch?v=YJ5KNs-J6co"
+        }
+      ]
     }
   ]
 }
