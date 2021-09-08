@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 08/09",
+          "url": "https://www.youtube.com/watch?v=PqB0KjGoDLc"
+        },
+        {
           "titulo": "Homilia Diária - 07/09",
           "url": "https://www.youtube.com/watch?v=znXtWo61KuE"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 02/09",
           "url": "https://www.youtube.com/watch?v=97cAMqK9x0A"
-        },
-        {
-          "titulo": "Homilia Diária - 01/09",
-          "url": "https://www.youtube.com/watch?v=VyVgwz0UMEM"
         }
       ]
     },
@@ -43,6 +43,10 @@
       "titulo": "Padre Paulo Ricardo",
       "cor": "#C08F29",
       "videos": [
+        {
+          "titulo": "Um grito dentro de você!",
+          "url": "https://www.youtube.com/watch?v=lgeB4sxIGSs"
+        },
         {
           "titulo": "Sem a Igreja Católica, não haveria Novo Testamento!",
           "url": "https://www.youtube.com/watch?v=PgS7UiuXOPg"
@@ -66,10 +70,6 @@
         {
           "titulo": "A extraordinária conversão de Santo Agostinho",
           "url": "https://www.youtube.com/watch?v=VGMz3PnR4TQ"
-        },
-        {
-          "titulo": "É possível ter uma família numerosa hoje?",
-          "url": "https://www.youtube.com/watch?v=6OmEzPJ5O4w"
         }
       ]
     },
@@ -77,6 +77,14 @@
       "titulo": "Padre Leonardo",
       "cor": "#1A293A",
       "videos": [
+        {
+          "titulo": "O que são as circunstâncias atenuantes do pecado?",
+          "url": "https://www.youtube.com/watch?v=a60F-747jZw"
+        },
+        {
+          "titulo": "A verdadeira INDEPENDÊNCIA - Projeto Sede Santos #012",
+          "url": "https://www.youtube.com/watch?v=BM6ZxZ9DCDo"
+        },
         {
           "titulo": "Por que devemos fazer DIREÇÃO ESPIRITUAL?",
           "url": "https://www.youtube.com/watch?v=QFAn8c0wixk"
@@ -96,14 +104,6 @@
         {
           "titulo": "Essa prática pode lhe PREJUDICAR! | Cortes da Semana da Formação da Consciência (Aula 01)",
           "url": "https://www.youtube.com/watch?v=whL9pgULliM"
-        },
-        {
-          "titulo": "A NECESSIDADE da DIREÇÃO ESPIRITUAL nas nossas vidas!",
-          "url": "https://www.youtube.com/watch?v=rDo-phrco8I"
-        },
-        {
-          "titulo": "Como identificar a consciência?",
-          "url": "https://www.youtube.com/watch?v=4jCqldFYfKY"
         }
       ]
     },
