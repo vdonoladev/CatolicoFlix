@@ -248,6 +248,10 @@
       "cor": "#3F9C7A",
       "videos": [
         {
+          "titulo": "TAPA CULTURAL #11 - Quem move o Brasil?",
+          "url": "https://www.youtube.com/watch?v=pxWPQIxchkY"
+        },
+        {
           "titulo": "Já raiou a liberdade no horizonte do Brasil",
           "url": "https://www.youtube.com/watch?v=r_A8mbjt-vk"
         },
@@ -270,10 +274,6 @@
         {
           "titulo": "TAPA CULTURAL #08 - País e mídia independentes = Povo Livre",
           "url": "https://www.youtube.com/watch?v=xorSQU54QO0"
-        },
-        {
-          "titulo": "TAPA CULTURAL #07 - Artigo 142 - O que é ditadura, afinal?",
-          "url": "https://www.youtube.com/watch?v=YJ5KNs-J6co"
         }
       ]
     }
