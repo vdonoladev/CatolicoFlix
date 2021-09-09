@@ -44,6 +44,10 @@
       "cor": "#C08F29",
       "videos": [
         {
+          "titulo": "Deus quer tomar você pela mão!",
+          "url": "https://www.youtube.com/watch?v=wIrq07owDoM"
+        },
+        {
           "titulo": "Um grito dentro de você!",
           "url": "https://www.youtube.com/watch?v=lgeB4sxIGSs"
         },
@@ -66,10 +70,6 @@
         {
           "titulo": "Oração: a porta da santidade",
           "url": "https://www.youtube.com/watch?v=bZ_TP8Vg-es"
-        },
-        {
-          "titulo": "A extraordinária conversão de Santo Agostinho",
-          "url": "https://www.youtube.com/watch?v=VGMz3PnR4TQ"
         }
       ]
     },
@@ -77,6 +77,10 @@
       "titulo": "Padre Leonardo",
       "cor": "#1A293A",
       "videos": [
+        {
+          "titulo": "O que fazer se estou em PECADO GRAVE? - Projeto 11:15 #014",
+          "url": "https://www.youtube.com/watch?v=e34W31K13RM"
+        },
         {
           "titulo": "Respondendo perguntas",
           "url": "https://www.youtube.com/watch?v=r386YIrj5no"
@@ -100,10 +104,6 @@
         {
           "titulo": "Como ENCONTRAR um bom DIRETOR ESPIRITUAL?",
           "url": "https://www.youtube.com/watch?v=Cmbdi1RGxtA"
-        },
-        {
-          "titulo": "As RAÍZES dos problemas de consciência!",
-          "url": "https://www.youtube.com/watch?v=H9nKN7lj_og"
         }
       ]
     },
