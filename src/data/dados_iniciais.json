@@ -44,6 +44,10 @@
       "cor": "#C08F29",
       "videos": [
         {
+          "titulo": "'Isso já é fanatismo!'",
+          "url": "https://www.youtube.com/watch?v=uL_s-LywLFA"
+        },
+        {
           "titulo": "O Brasil tem salvação?",
           "url": "https://www.youtube.com/watch?v=X4a6dayOGVU"
         },
@@ -66,10 +70,6 @@
         {
           "titulo": "Prepare para decolar!",
           "url": "https://www.youtube.com/watch?v=gZYabLpRKm8"
-        },
-        {
-          "titulo": "Escolhi ser dona de casa, mas minha família não aceita. O que faço?",
-          "url": "https://www.youtube.com/watch?v=2I3xC7myO9U"
         }
       ]
     },
@@ -214,6 +214,10 @@
       "cor": "#EA9506",
       "videos": [
         {
+          "titulo": "04. A Missa que vem da Tradição alexandrina",
+          "url": "https://www.youtube.com/watch?v=DC3F0Cf3A98"
+        },
+        {
           "titulo": "A Bíblia é a Palavra de Deus?",
           "url": "https://www.youtube.com/watch?v=H9NdzG2h_Yk"
         },
@@ -236,10 +240,6 @@
         {
           "titulo": "Gn 4,25-26: Você sabe quem foi o primeiro a rezar?",
           "url": "https://www.youtube.com/watch?v=Hw4a5ph-5bE"
-        },
-        {
-          "titulo": "1. Cristologia e história",
-          "url": "https://www.youtube.com/watch?v=EJQAE5lyodA"
         }
       ]
     },
