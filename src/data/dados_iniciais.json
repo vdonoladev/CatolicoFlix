@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 13/09",
+          "url": "https://www.youtube.com/watch?v=dZAvQELTmvE"
+        },
+        {
           "titulo": "Homilia Dominical - 12/09",
           "url": "https://www.youtube.com/watch?v=HtyN4koBsq4"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 07/09",
           "url": "https://www.youtube.com/watch?v=znXtWo61KuE"
-        },
-        {
-          "titulo": "Homilia Diária - 06/09",
-          "url": "https://www.youtube.com/watch?v=QZjXY6Byqeg"
         }
       ]
     },
@@ -43,6 +43,10 @@
       "titulo": "Padre Paulo Ricardo",
       "cor": "#C08F29",
       "videos": [
+        {
+          "titulo": "Não é preciso inventar a roda!",
+          "url": "https://www.youtube.com/watch?v=BAM5rCin9rQ"
+        },
         {
           "titulo": "'Isso já é fanatismo!'",
           "url": "https://www.youtube.com/watch?v=uL_s-LywLFA"
@@ -66,10 +70,6 @@
         {
           "titulo": "Uma direção espiritual coletiva?",
           "url": "https://www.youtube.com/watch?v=C4kuMaJPuSs"
-        },
-        {
-          "titulo": "Prepare para decolar!",
-          "url": "https://www.youtube.com/watch?v=gZYabLpRKm8"
         }
       ]
     },
@@ -77,6 +77,10 @@
       "titulo": "Padre Leonardo",
       "cor": "#1A293A",
       "videos": [
+        {
+          "titulo": "Diferencie a Confissão ÍNTEGRA, INCOMPLETA, VÁLIDA E INVÁLIDA - Aprenda a confessar bem",
+          "url": "https://www.youtube.com/watch?v=UhaVbFrPJnw"
+        },
         {
           "titulo": "Respondendo perguntas - Parte II",
           "url": "https://www.youtube.com/watch?v=IUoiGs3m4Ds"
@@ -100,10 +104,6 @@
         {
           "titulo": "O que são as circunstâncias atenuantes do pecado?",
           "url": "https://www.youtube.com/watch?v=a60F-747jZw"
-        },
-        {
-          "titulo": "A verdadeira INDEPENDÊNCIA - Projeto Sede Santos #012",
-          "url": "https://www.youtube.com/watch?v=BM6ZxZ9DCDo"
         }
       ]
     },
