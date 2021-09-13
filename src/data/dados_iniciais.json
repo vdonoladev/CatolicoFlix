@@ -44,6 +44,10 @@
       "cor": "#C08F29",
       "videos": [
         {
+          "titulo": "O Brasil tem salvação?",
+          "url": "https://www.youtube.com/watch?v=4HLNzGDqTIY"
+        },
+        {
           "titulo": "Não é preciso inventar a roda!",
           "url": "https://www.youtube.com/watch?v=BAM5rCin9rQ"
         },
@@ -66,10 +70,6 @@
         {
           "titulo": "Sem a Igreja Católica, não haveria Novo Testamento!",
           "url": "https://www.youtube.com/watch?v=PgS7UiuXOPg"
-        },
-        {
-          "titulo": "Uma direção espiritual coletiva?",
-          "url": "https://www.youtube.com/watch?v=C4kuMaJPuSs"
         }
       ]
     },
@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "Arcebispo de Londrina deseja um Conselho LGBT!",
+          "url": "https://www.youtube.com/watch?v=-62FGfKRK_A"
+        },
+        {
           "titulo": "Fomos cancelados. Saiba como vamos reagir!",
           "url": "https://www.youtube.com/watch?v=xlQmjHEAfgY"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "Uma visão transcendente da Independência do Brasil - Ibsen Noronha",
           "url": "https://www.youtube.com/watch?v=UEP9Cf06ygA"
-        },
-        {
-          "titulo": "Uma prova da existência de Deus por minuto!",
-          "url": "https://www.youtube.com/watch?v=SgQpNU1zlEU"
         }
       ]
     },
@@ -179,6 +179,10 @@
       "titulo": "FSSPX Portugal",
       "cor": "#E00507",
       "videos": [
+        {
+          "titulo": "O Valor da Santa Missa",
+          "url": "https://www.youtube.com/watch?v=cXHUgdeiiug"
+        },
         {
           "titulo": "Gnosticismo da Reencarnação",
           "url": "https://www.youtube.com/watch?v=Mf8qilNuLEU"
@@ -202,10 +206,6 @@
         {
           "titulo": "A Humildade",
           "url": "https://www.youtube.com/watch?v=HukODP9o2G8"
-        },
-        {
-          "titulo": "A Graça Gratuita",
-          "url": "https://www.youtube.com/watch?v=kzy1antX3d0"
         }
       ]
     },
@@ -248,6 +248,10 @@
       "cor": "#3F9C7A",
       "videos": [
         {
+          "titulo": "TAPA CULTURAL #12 - Comunismo: Voluntário e 'Involuntário'",
+          "url": "https://www.youtube.com/watch?v=1-Bm7L-99eo"
+        },
+        {
           "titulo": "TAPA CULTURAL #11 - Quem move o Brasil?",
           "url": "https://www.youtube.com/watch?v=pxWPQIxchkY"
         },
@@ -270,10 +274,6 @@
         {
           "titulo": "Cinco anos do impeachment: e agora, direita?",
           "url": "https://www.youtube.com/watch?v=UJ8IpVBPhpM"
-        },
-        {
-          "titulo": "TAPA CULTURAL #08 - País e mídia independentes = Povo Livre",
-          "url": "https://www.youtube.com/watch?v=xorSQU54QO0"
         }
       ]
     }
