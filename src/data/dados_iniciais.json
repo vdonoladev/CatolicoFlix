@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 15/09",
+          "url": "https://www.youtube.com/watch?v=7kcuT-ghoYQ"
+        },
+        {
           "titulo": "Homilia Diária - 14/09",
           "url": "https://www.youtube.com/watch?v=Q_iC4D6cs28"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 09/09",
           "url": "https://www.youtube.com/watch?v=s65sgvvpDD4"
-        },
-        {
-          "titulo": "Homilia Diária - 08/09",
-          "url": "https://www.youtube.com/watch?v=PqB0KjGoDLc"
         }
       ]
     },
@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "Chegou a hora da Liga Cristo Rei!",
+          "url": "https://www.youtube.com/watch?v=8zLVYgmusWI"
+        },
+        {
           "titulo": "Arcebispo de Londrina deseja um Conselho LGBT!",
           "url": "https://www.youtube.com/watch?v=-62FGfKRK_A"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "Um chamado especial para o seu filho!",
           "url": "https://www.youtube.com/watch?v=3hCfVWIH6ZY"
-        },
-        {
-          "titulo": "Uma visão transcendente da Independência do Brasil - Ibsen Noronha",
-          "url": "https://www.youtube.com/watch?v=UEP9Cf06ygA"
         }
       ]
     },
@@ -248,6 +248,10 @@
       "cor": "#3F9C7A",
       "videos": [
         {
+          "titulo": "Conexão KGB: O Brasil pós-7 de setembro e o acordo do Vampirão",
+          "url": "https://www.youtube.com/watch?v=IVWZy18-nHU"
+        },
+        {
           "titulo": "TAPA CULTURAL #12 - Comunismo: Voluntário e 'Involuntário'",
           "url": "https://www.youtube.com/watch?v=1-Bm7L-99eo"
         },
@@ -270,10 +274,6 @@
         {
           "titulo": "TAPA CULTURAL #09 - Por que Brasília?",
           "url": "https://www.youtube.com/watch?v=RD2TXzwnAXE"
-        },
-        {
-          "titulo": "Cinco anos do impeachment: e agora, direita?",
-          "url": "https://www.youtube.com/watch?v=UJ8IpVBPhpM"
         }
       ]
     }
