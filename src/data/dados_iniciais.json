@@ -44,6 +44,10 @@
       "cor": "#C08F29",
       "videos": [
         {
+          "titulo": "Não construa sua casa sobre a areia!",
+          "url": "https://www.youtube.com/watch?v=P06RuNxDkRo"
+        },
+        {
           "titulo": "Não dirija a Ferrari sem motor!",
           "url": "https://www.youtube.com/watch?v=oeZBA3U1Vrs"
         },
@@ -66,10 +70,6 @@
         {
           "titulo": "O Brasil tem salvação?",
           "url": "https://www.youtube.com/watch?v=X4a6dayOGVU"
-        },
-        {
-          "titulo": "Deus quer tomar você pela mão!",
-          "url": "https://www.youtube.com/watch?v=wIrq07owDoM"
         }
       ]
     },
@@ -248,6 +248,10 @@
       "cor": "#3F9C7A",
       "videos": [
         {
+          "titulo": "TAPA CULTURAL #13 - Cultura e Governo - Qual o limite desta relação?",
+          "url": "https://www.youtube.com/watch?v=IVWZy18-nHU"
+        },
+        {
           "titulo": "Conexão KGB: O Brasil pós-7 de setembro e o acordo do Vampirão",
           "url": "https://www.youtube.com/watch?v=IVWZy18-nHU"
         },
@@ -270,10 +274,6 @@
         {
           "titulo": "CPAC Brasil 2021 - Dia 1",
           "url": "https://www.youtube.com/watch?v=GWGbS2z_qlM"
-        },
-        {
-          "titulo": "TAPA CULTURAL #09 - Por que Brasília?",
-          "url": "https://www.youtube.com/watch?v=RD2TXzwnAXE"
         }
       ]
     }
