@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 16/09",
+          "url": "https://www.youtube.com/watch?v=gggBMvBlLPM"
+        },
+        {
           "titulo": "Homilia Diária - 15/09",
           "url": "https://www.youtube.com/watch?v=7kcuT-ghoYQ"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 10/09",
           "url": "https://www.youtube.com/watch?v=iV1vM-GBbU0"
-        },
-        {
-          "titulo": "Homilia Diária - 09/09",
-          "url": "https://www.youtube.com/watch?v=s65sgvvpDD4"
         }
       ]
     },
@@ -43,6 +43,14 @@
       "titulo": "Padre Paulo Ricardo",
       "cor": "#C08F29",
       "videos": [
+        {
+          "titulo": "Não dirija a Ferrari sem motor!",
+          "url": "https://www.youtube.com/watch?v=oeZBA3U1Vrs"
+        },
+        {
+          "titulo": "Por que tantas mulheres não querem mais ser mãe?",
+          "url": "https://www.youtube.com/watch?v=i2MTzdmWWS8"
+        },
         {
           "titulo": "O Brasil tem salvação?",
           "url": "https://www.youtube.com/watch?v=4HLNzGDqTIY"
@@ -62,14 +70,6 @@
         {
           "titulo": "Deus quer tomar você pela mão!",
           "url": "https://www.youtube.com/watch?v=wIrq07owDoM"
-        },
-        {
-          "titulo": "Um grito dentro de você!",
-          "url": "https://www.youtube.com/watch?v=lgeB4sxIGSs"
-        },
-        {
-          "titulo": "Sem a Igreja Católica, não haveria Novo Testamento!",
-          "url": "https://www.youtube.com/watch?v=PgS7UiuXOPg"
         }
       ]
     },
@@ -77,6 +77,18 @@
       "titulo": "Padre Leonardo",
       "cor": "#1A293A",
       "videos": [
+        {
+          "titulo": "Por que o pecado nos incomoda tanto?",
+          "url": "https://www.youtube.com/watch?v=z4rVckOIE7Y"
+        },
+        {
+          "titulo": "O pecado da PREGUIÇA - Projeto Sede Santos #016",
+          "url": "https://www.youtube.com/watch?v=7O1w8MUPVW8"
+        },
+        {
+          "titulo": "Será mesmo que PECADO GRAVE é apenas matar e roubar? - Projeto 11:15 #004",
+          "url": "https://www.youtube.com/watch?v=19Fj8B458wk"
+        },
         {
           "titulo": "Diferencie a Confissão ÍNTEGRA, INCOMPLETA, VÁLIDA E INVÁLIDA - Aprenda a confessar bem",
           "url": "https://www.youtube.com/watch?v=UhaVbFrPJnw"
@@ -92,18 +104,6 @@
         {
           "titulo": "Quando é que a gula se torna pecado mortal?",
           "url": "https://www.youtube.com/watch?v=BIVT2gGnDRo"
-        },
-        {
-          "titulo": "O que fazer se estou em PECADO GRAVE? - Projeto 11:15 #014",
-          "url": "https://www.youtube.com/watch?v=e34W31K13RM"
-        },
-        {
-          "titulo": "Respondendo perguntas",
-          "url": "https://www.youtube.com/watch?v=r386YIrj5no"
-        },
-        {
-          "titulo": "O que são as circunstâncias atenuantes do pecado?",
-          "url": "https://www.youtube.com/watch?v=a60F-747jZw"
         }
       ]
     },
@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "A Expulsão do Paraíso - Prof. Sidney Silveira",
+          "url": "https://www.youtube.com/watch?v=SuCHpeC0nlM"
+        },
+        {
           "titulo": "Chegou a hora da Liga Cristo Rei!",
           "url": "https://www.youtube.com/watch?v=8zLVYgmusWI"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "Lições da primeira missa para o dia de hoje!",
           "url": "https://www.youtube.com/watch?v=alm_RfEMBcs"
-        },
-        {
-          "titulo": "Um chamado especial para o seu filho!",
-          "url": "https://www.youtube.com/watch?v=3hCfVWIH6ZY"
         }
       ]
     },
@@ -214,6 +214,10 @@
       "cor": "#EA9506",
       "videos": [
         {
+          "titulo": "3. Concílios cristológicos e a união hipostática",
+          "url": "https://www.youtube.com/watch?v=mkFZ_9X_LTY"
+        },
+        {
           "titulo": "Não podemos ser tão sensíveis assim...",
           "url": "https://www.youtube.com/watch?v=Y9zAdiLScB0"
         },
@@ -236,10 +240,6 @@
         {
           "titulo": "Gn 2,7; Dt 9,10; Jr 31,33, Mc 7,31-37 tem a ver com o modelar e remodelar do ser humano",
           "url": "https://www.youtube.com/watch?v=weNbhxrIBIc"
-        },
-        {
-          "titulo": "Apostolikè Parádosis = Tradição dos Apóstolos",
-          "url": "https://www.youtube.com/watch?v=Ul915S5faEg"
         }
       ]
     },
