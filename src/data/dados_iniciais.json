@@ -44,6 +44,10 @@
       "cor": "#C08F29",
       "videos": [
         {
+          "titulo": "Padre Paulo tem um segredo para lhe contar!",
+          "url": "https://www.youtube.com/watch?v=pB3hpY3gkNs"
+        },
+        {
           "titulo": "Não construa sua casa sobre a areia!",
           "url": "https://www.youtube.com/watch?v=P06RuNxDkRo"
         },
@@ -66,10 +70,6 @@
         {
           "titulo": "'Isso já é fanatismo!'",
           "url": "https://www.youtube.com/watch?v=uL_s-LywLFA"
-        },
-        {
-          "titulo": "O Brasil tem salvação?",
-          "url": "https://www.youtube.com/watch?v=X4a6dayOGVU"
         }
       ]
     },
