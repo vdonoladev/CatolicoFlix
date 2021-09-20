@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 20/09",
+          "url": "https://www.youtube.com/watch?v=NPyYaqHQOC0"
+        }
+        {
           "titulo": "Homilia Dominical - 19/09",
           "url": "https://www.youtube.com/watch?v=t2_jokfMXrk"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 14/09",
           "url": "https://www.youtube.com/watch?v=Q_iC4D6cs28"
-        },
-        {
-          "titulo": "Homilia Diária - 13/09",
-          "url": "https://www.youtube.com/watch?v=dZAvQELTmvE"
         }
       ]
     },
@@ -43,6 +43,10 @@
       "titulo": "Padre Paulo Ricardo",
       "cor": "#C08F29",
       "videos": [
+        {
+          "titulo": "Pare de atrapalhar Deus!",
+          "url": "https://www.youtube.com/watch?v=8inwELig8WA"
+        },
         {
           "titulo": "Padre Paulo tem um segredo para lhe contar!",
           "url": "https://www.youtube.com/watch?v=pB3hpY3gkNs"
@@ -66,10 +70,6 @@
         {
           "titulo": "Não é preciso inventar a roda!",
           "url": "https://www.youtube.com/watch?v=BAM5rCin9rQ"
-        },
-        {
-          "titulo": "'Isso já é fanatismo!'",
-          "url": "https://www.youtube.com/watch?v=uL_s-LywLFA"
         }
       ]
     },
@@ -77,6 +77,10 @@
       "titulo": "Padre Leonardo",
       "cor": "#1A293A",
       "videos": [
+        {
+          "titulo": "Quando é que mentir é pecado grave?",
+          "url": "https://www.youtube.com/watch?v=M_G5_wOw6hM"
+        },
         {
           "titulo": "Como adquirir VIRTUDES e caminhar para a SANTIDADE? - Projeto 11:15 #008",
           "url": "https://www.youtube.com/watch?v=xZ6s0Lyn00o"
@@ -100,10 +104,6 @@
         {
           "titulo": "Por que o pecado nos incomoda tanto?",
           "url": "https://www.youtube.com/watch?v=z4rVckOIE7Y"
-        },
-        {
-          "titulo": "O pecado da PREGUIÇA - Projeto Sede Santos #016",
-          "url": "https://www.youtube.com/watch?v=7O1w8MUPVW8"
         }
       ]
     },
@@ -214,6 +214,10 @@
       "cor": "#EA9506",
       "videos": [
         {
+          "titulo": "Relacione-se Mc 9,30-37 com a vida de São Pio de Pietrelcina (1887 - 1968), celebrado no dia 23/09",
+          "url": "https://www.youtube.com/watch?v=ZNzlWqYqsgs"
+        },
+        {
           "titulo": "Vários ritos orientais encontram-se na liturgia bizantina. No Ocidente, haverá algo semelhante.",
           "url": "https://www.youtube.com/watch?v=Xl1BMM9AVlY"
         },
@@ -236,10 +240,6 @@
         {
           "titulo": "04. A Missa que vem da Tradição alexandrina",
           "url": "https://www.youtube.com/watch?v=DC3F0Cf3A98"
-        },
-        {
-          "titulo": "A Bíblia é a Palavra de Deus?",
-          "url": "https://www.youtube.com/watch?v=H9NdzG2h_Yk"
         }
       ]
     },
@@ -247,6 +247,10 @@
       "titulo": "Bernardo P Küster",
       "cor": "#3F9C7A",
       "videos": [
+        {
+          "titulo": "TAPA CULTURAL #14 - Paulo Freire - O Pai do Dilmês",
+          "url": "https://www.youtube.com/watch?v=r1c05jHm_jE"
+        },
         {
           "titulo": "TAPA CULTURAL #13 - Cultura e Governo - Qual o limite desta relação?",
           "url": "https://www.youtube.com/watch?v=IVWZy18-nHU"
@@ -270,10 +274,6 @@
         {
           "titulo": "TAPA CULTURAL #10 - Povo nas ruas, a nova independência.",
           "url": "https://www.youtube.com/watch?v=TL6fYWB8l4Q"
-        },
-        {
-          "titulo": "CPAC Brasil 2021 - Dia 1",
-          "url": "https://www.youtube.com/watch?v=GWGbS2z_qlM"
         }
       ]
     }
