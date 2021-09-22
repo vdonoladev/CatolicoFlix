@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 22/09",
+          "url": "https://www.youtube.com/watch?v=ZI4irUExbgk"
+        },
+        {
           "titulo": "Homilia Diária - 21/09",
           "url": "https://www.youtube.com/watch?v=qs3_7OmCyrc"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 16/09",
           "url": "https://www.youtube.com/watch?v=gggBMvBlLPM"
-        },
-        {
-          "titulo": "Homilia Diária - 15/09",
-          "url": "https://www.youtube.com/watch?v=7kcuT-ghoYQ"
         }
       ]
     },
@@ -78,6 +78,14 @@
       "cor": "#1A293A",
       "videos": [
         {
+          "titulo": "O que é a VIRTUDE? O que é ser VIRTUOSO?",
+          "url": "https://www.youtube.com/watch?v=yr5YNdey-Z4"
+        },
+        {
+          "titulo": "A BATALHA para o Céu",
+          "url": "https://www.youtube.com/watch?v=mtlwxMyXeOM"
+        },
+        {
           "titulo": "Como ser VERDADEIRAMENTE FELIZ",
           "url": "https://www.youtube.com/watch?v=mqZdt1QYo-M"
         },
@@ -96,14 +104,6 @@
         {
           "titulo": "Como surgem os ESCRÚPULOS DE CONSCIÊNCIA?",
           "url": "https://www.youtube.com/watch?v=rZlOGV4aurg"
-        },
-        {
-          "titulo": "Você ama a Deus acima de todas as coisas?",
-          "url": "https://www.youtube.com/watch?v=0pO_6HTSKO8"
-        },
-        {
-          "titulo": "Você acha que pode ser condenado por conta disso?",
-          "url": "https://www.youtube.com/watch?v=0kZhP6nSEzk"
         }
       ]
     },
@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "A atuação demoníaca na matéria e como evitá-la - Padre Paulo Ricardo",
+          "url": "https://www.youtube.com/watch?v=eVUU6e35VJI"
+        },
+        {
           "titulo": "Católicos sobem o tom contra prefeito!",
           "url": "https://www.youtube.com/watch?v=cgw24u7aKe0"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "Arcebispo de Londrina deseja um Conselho LGBT!",
           "url": "https://www.youtube.com/watch?v=-62FGfKRK_A"
-        },
-        {
-          "titulo": "Fomos cancelados. Saiba como vamos reagir!",
-          "url": "https://www.youtube.com/watch?v=xlQmjHEAfgY"
         }
       ]
     },
@@ -214,6 +214,10 @@
       "cor": "#EA9506",
       "videos": [
         {
+          "titulo": "No dia 19 de setembro, o Pe. Françoá Costa batizou 18 adultos. Nesta ocasião, ele lhes exortou...",
+          "url": "https://www.youtube.com/watch?v=ob3OiOf_haw"
+        },
+        {
           "titulo": "Relacione-se Mc 9,30-37 com a vida de São Pio de Pietrelcina (1887 - 1968), celebrado no dia 23/09",
           "url": "https://www.youtube.com/watch?v=ZNzlWqYqsgs"
         },
@@ -236,10 +240,6 @@
         {
           "titulo": "Não podemos ser tão sensíveis assim...",
           "url": "https://www.youtube.com/watch?v=Y9zAdiLScB0"
-        },
-        {
-          "titulo": "04. A Missa que vem da Tradição alexandrina",
-          "url": "https://www.youtube.com/watch?v=DC3F0Cf3A98"
         }
       ]
     },
@@ -247,6 +247,10 @@
       "titulo": "Bernardo P Küster",
       "cor": "#3F9C7A",
       "videos": [
+        {
+          "titulo": "Bolsonaro come pizza na ONU",
+          "url": "https://www.youtube.com/watch?v=a_OxuL6rgt0"
+        },
         {
           "titulo": "TAPA CULTURAL #14 - Paulo Freire - O Pai do Dilmês",
           "url": "https://www.youtube.com/watch?v=r1c05jHm_jE"
@@ -270,10 +274,6 @@
         {
           "titulo": "Já raiou a liberdade no horizonte do Brasil",
           "url": "https://www.youtube.com/watch?v=r_A8mbjt-vk"
-        },
-        {
-          "titulo": "TAPA CULTURAL #10 - Povo nas ruas, a nova independência.",
-          "url": "https://www.youtube.com/watch?v=TL6fYWB8l4Q"
         }
       ]
     }
