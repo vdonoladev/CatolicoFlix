@@ -78,6 +78,10 @@
       "cor": "#1A293A",
       "videos": [
         {
+          "titulo": "Como se livrar dos VÍCIOS? - Projeto Sede Santos #008",
+          "url": "https://www.youtube.com/watch?v=tgT0OGyR1zM"
+        },
+        {
           "titulo": "O que é a VIRTUDE? O que é ser VIRTUOSO?",
           "url": "https://www.youtube.com/watch?v=yr5YNdey-Z4"
         },
@@ -100,10 +104,6 @@
         {
           "titulo": "É assim que todo cristão deveria viver!",
           "url": "https://www.youtube.com/watch?v=dVCKQq4dqcs"
-        },
-        {
-          "titulo": "Como surgem os ESCRÚPULOS DE CONSCIÊNCIA?",
-          "url": "https://www.youtube.com/watch?v=rZlOGV4aurg"
         }
       ]
     },
@@ -214,6 +214,10 @@
       "cor": "#EA9506",
       "videos": [
         {
+          "titulo": "4. Unidade e santidade de Cristo",
+          "url": "https://www.youtube.com/watch?v=ULhIWUShQi4"
+        },
+        {
           "titulo": "No dia 19 de setembro, o Pe. Françoá Costa batizou 18 adultos. Nesta ocasião, ele lhes exortou...",
           "url": "https://www.youtube.com/watch?v=ob3OiOf_haw"
         },
@@ -236,10 +240,6 @@
         {
           "titulo": "3. Concílios cristológicos e a união hipostática",
           "url": "https://www.youtube.com/watch?v=mkFZ_9X_LTY"
-        },
-        {
-          "titulo": "Não podemos ser tão sensíveis assim...",
-          "url": "https://www.youtube.com/watch?v=Y9zAdiLScB0"
         }
       ]
     },
@@ -274,6 +274,40 @@
         {
           "titulo": "Já raiou a liberdade no horizonte do Brasil",
           "url": "https://www.youtube.com/watch?v=r_A8mbjt-vk"
+        }
+      ]
+    },
+    {
+      "titulo": "Italo Marsili",
+      "cor": "#ED285F",
+      "videos": [
+        {
+          "titulo": "A PIRATARIA e a deformação da CONSCIÊNCIA | Live #222",
+          "url": "https://www.youtube.com/watch?v=64_LN_5nQ6E"
+        },
+        {
+          "titulo": "A reação HISTÉRICA à LISTA POLÊMICA | Live #221",
+          "url": "https://www.youtube.com/watch?v=ZStT4GPussU"
+        },
+        {
+          "titulo": "Nasce uma nova geração de terapeutas - Certificação Italo Marsili",
+          "url": "https://www.youtube.com/watch?v=J2ESc1Oz8dw"
+        },
+        {
+          "titulo": "Uma aula sobre a REALIDADE BRASILEIRA para você | Live #220",
+          "url": "https://www.youtube.com/watch?v=N020HkcJWAU"
+        },
+        {
+          "titulo": "AUDÁCIA e CONSISTÊNCIA vencem TALENTO! | LIve #219",
+          "url": "https://www.youtube.com/watch?v=EUupOw_woyo"
+        },
+        {
+          "titulo": "EXTRAORDINÁRIOS | Ep01 | Khenia Cristina",
+          "url": "https://www.youtube.com/watch?v=fKUJBFVQbF0"
+        },
+        {
+          "titulo": "Uma pequena mensagem aos fiéis e aos sacerdotes.",
+          "url": "https://www.youtube.com/watch?v=5PQB3gJiy9M"
         }
       ]
     }
