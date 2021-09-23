@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 23/09",
+          "url": "https://www.youtube.com/watch?v=nDZ5s-BpC-k"
+        },
+        {
           "titulo": "Homilia Diária - 22/09",
           "url": "https://www.youtube.com/watch?v=ZI4irUExbgk"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 17/09",
           "url": "https://www.youtube.com/watch?v=XvuGwe31jlo"
-        },
-        {
-          "titulo": "Homilia Diária - 16/09",
-          "url": "https://www.youtube.com/watch?v=gggBMvBlLPM"
         }
       ]
     },
@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "Catecismo da Crise (Aula 9. Aspectos práticos da Revolução Litúrgica de Paulo VI) - Pedro Affonseca.",
+          "url": "https://www.youtube.com/watch?v=zcLU-MLxIns"
+        },
+        {
           "titulo": "A atuação demoníaca na matéria e como evitá-la - Padre Paulo Ricardo",
           "url": "https://www.youtube.com/watch?v=eVUU6e35VJI"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "Chegou a hora da Liga Cristo Rei!",
           "url": "https://www.youtube.com/watch?v=8zLVYgmusWI"
-        },
-        {
-          "titulo": "Arcebispo de Londrina deseja um Conselho LGBT!",
-          "url": "https://www.youtube.com/watch?v=-62FGfKRK_A"
         }
       ]
     },
@@ -282,6 +282,10 @@
       "cor": "#ED285F",
       "videos": [
         {
+          "titulo": "CONVITE ESPECIAL | Lançamento da Certificação Italo Marsili",
+          "url": "https://www.youtube.com/watch?v=9eav_cRbpJM"
+        },
+        {
           "titulo": "A PIRATARIA e a deformação da CONSCIÊNCIA | Live #222",
           "url": "https://www.youtube.com/watch?v=64_LN_5nQ6E"
         },
@@ -304,10 +308,6 @@
         {
           "titulo": "EXTRAORDINÁRIOS | Ep01 | Khenia Cristina",
           "url": "https://www.youtube.com/watch?v=fKUJBFVQbF0"
-        },
-        {
-          "titulo": "Uma pequena mensagem aos fiéis e aos sacerdotes.",
-          "url": "https://www.youtube.com/watch?v=5PQB3gJiy9M"
         }
       ]
     }
