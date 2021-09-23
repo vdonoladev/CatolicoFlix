@@ -78,6 +78,10 @@
       "cor": "#1A293A",
       "videos": [
         {
+          "titulo": "Como formar bons hábitos?",
+          "url": "https://www.youtube.com/watch?v=XXSscO9vGHw"
+        },
+        {
           "titulo": "Como se livrar dos VÍCIOS? - Projeto Sede Santos #008",
           "url": "https://www.youtube.com/watch?v=tgT0OGyR1zM"
         },
@@ -100,10 +104,6 @@
         {
           "titulo": "Como adquirir VIRTUDES e caminhar para a SANTIDADE? - Projeto 11:15 #008",
           "url": "https://www.youtube.com/watch?v=xZ6s0Lyn00o"
-        },
-        {
-          "titulo": "É assim que todo cristão deveria viver!",
-          "url": "https://www.youtube.com/watch?v=dVCKQq4dqcs"
         }
       ]
     },
@@ -248,6 +248,10 @@
       "cor": "#3F9C7A",
       "videos": [
         {
+          "titulo": "TAPA CULTURAL #15 - A Ditadura Sanitária chegou no Vaticano",
+          "url": "https://www.youtube.com/watch?v=9gmz4qWcYKk"
+        },
+        {
           "titulo": "Bolsonaro come pizza na ONU",
           "url": "https://www.youtube.com/watch?v=a_OxuL6rgt0"
         },
@@ -270,10 +274,6 @@
         {
           "titulo": "TAPA CULTURAL #11 - Quem move o Brasil?",
           "url": "https://www.youtube.com/watch?v=pxWPQIxchkY"
-        },
-        {
-          "titulo": "Já raiou a liberdade no horizonte do Brasil",
-          "url": "https://www.youtube.com/watch?v=r_A8mbjt-vk"
         }
       ]
     },
@@ -281,6 +281,10 @@
       "titulo": "Italo Marsili",
       "cor": "#ED285F",
       "videos": [
+        {
+          "titulo": "Como agir PERFEITAMENTE no seu DIA A DIA? | Live #223",
+          "url": "https://www.youtube.com/watch?v=jtj8Fiqfo-U"
+        },
         {
           "titulo": "CONVITE ESPECIAL | Lançamento da Certificação Italo Marsili",
           "url": "https://www.youtube.com/watch?v=9eav_cRbpJM"
@@ -304,10 +308,6 @@
         {
           "titulo": "AUDÁCIA e CONSISTÊNCIA vencem TALENTO! | LIve #219",
           "url": "https://www.youtube.com/watch?v=EUupOw_woyo"
-        },
-        {
-          "titulo": "EXTRAORDINÁRIOS | Ep01 | Khenia Cristina",
-          "url": "https://www.youtube.com/watch?v=fKUJBFVQbF0"
         }
       ]
     }
