@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 25/09",
+          "url": "https://www.youtube.com/watch?v=Kjix28f8ubg"
+        },
+        {
           "titulo": "Homilia Diária - 24/09",
           "url": "https://www.youtube.com/watch?v=qCX7RTTCcbA"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Dominical - 19/09",
           "url": "https://www.youtube.com/watch?v=t2_jokfMXrk"
-        },
-        {
-          "titulo": "Homilia Diária - 18/09",
-          "url": "https://www.youtube.com/watch?v=boWQnAsi7T4"
         }
       ]
     },
@@ -43,6 +43,10 @@
       "titulo": "Padre Paulo Ricardo",
       "cor": "#C08F29",
       "videos": [
+        {
+          "titulo": "A nossa jornada vai começar!",
+          "url": "https://www.youtube.com/watch?v=ebP5hB29Dds"
+        },
         {
           "titulo": "'Direção Espiritual', com Padre Paulo Ricardo: vai começar a nossa Jornada!",
           "url": "https://www.youtube.com/watch?v=SpoLkcM9fA4"
@@ -66,10 +70,6 @@
         {
           "titulo": "Por que tantas mulheres não querem mais ser mãe?",
           "url": "https://www.youtube.com/watch?v=i2MTzdmWWS8"
-        },
-        {
-          "titulo": "O Brasil tem salvação?",
-          "url": "https://www.youtube.com/watch?v=4HLNzGDqTIY"
         }
       ]
     },
@@ -77,6 +77,10 @@
       "titulo": "Padre Leonardo",
       "cor": "#1A293A",
       "videos": [
+        {
+          "titulo": "NUNCA DESISTA DE LUTAR!",
+          "url": "https://www.youtube.com/watch?v=PTr4fOZ1so4"
+        },
         {
           "titulo": "Todo vício é pecado mortal?",
           "url": "https://www.youtube.com/watch?v=0JbP1iy-IKQ"
@@ -100,10 +104,6 @@
         {
           "titulo": "Como ser VERDADEIRAMENTE FELIZ",
           "url": "https://www.youtube.com/watch?v=mqZdt1QYo-M"
-        },
-        {
-          "titulo": "Quando é que mentir é pecado grave?",
-          "url": "https://www.youtube.com/watch?v=M_G5_wOw6hM"
         }
       ]
     },
@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "Vereadores rejeitam conselho e arcebispo é repreendido na televisão!",
+          "url": "https://www.youtube.com/watch?v=NPAOnuSb7oo"
+        },
+        {
           "titulo": "Catecismo da Crise (Aula 9. Aspectos práticos da Revolução Litúrgica de Paulo VI) - Pedro Affonseca.",
           "url": "https://www.youtube.com/watch?v=zcLU-MLxIns"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "A Expulsão do Paraíso - Prof. Sidney Silveira",
           "url": "https://www.youtube.com/watch?v=SuCHpeC0nlM"
-        },
-        {
-          "titulo": "Chegou a hora da Liga Cristo Rei!",
-          "url": "https://www.youtube.com/watch?v=8zLVYgmusWI"
         }
       ]
     },
@@ -214,6 +214,10 @@
       "cor": "#EA9506",
       "videos": [
         {
+          "titulo": "Gn 6,1-4 - Os filhos de Deus: quem são?",
+          "url": "https://www.youtube.com/watch?v=tdvuhlN_3l4"
+        },
+        {
           "titulo": "4. Unidade e santidade de Cristo",
           "url": "https://www.youtube.com/watch?v=ULhIWUShQi4"
         },
@@ -236,10 +240,6 @@
         {
           "titulo": "Gn 5,1-32 - Há vida onde há Deus",
           "url": "https://www.youtube.com/watch?v=-EyAv9hmhNU"
-        },
-        {
-          "titulo": "3. Concílios cristológicos e a união hipostática",
-          "url": "https://www.youtube.com/watch?v=mkFZ_9X_LTY"
         }
       ]
     },
@@ -282,6 +282,10 @@
       "cor": "#ED285F",
       "videos": [
         {
+          "titulo": "Live #224",
+          "url": "https://www.youtube.com/watch?v=Ri3acgttfKE"
+        },
+        {
           "titulo": "Como agir PERFEITAMENTE no seu DIA A DIA? | Live #223",
           "url": "https://www.youtube.com/watch?v=jtj8Fiqfo-U"
         },
@@ -304,10 +308,6 @@
         {
           "titulo": "Uma aula sobre a REALIDADE BRASILEIRA para você | Live #220",
           "url": "https://www.youtube.com/watch?v=N020HkcJWAU"
-        },
-        {
-          "titulo": "AUDÁCIA e CONSISTÊNCIA vencem TALENTO! | LIve #219",
-          "url": "https://www.youtube.com/watch?v=EUupOw_woyo"
         }
       ]
     }
