@@ -180,6 +180,10 @@
       "cor": "#E00507",
       "videos": [
         {
+          "titulo": "O Valor da Confissão",
+          "url": "https://www.youtube.com/watch?v=pGgnLgUuXP0"
+        },
+        {
           "titulo": "O Valor da Santa Missa",
           "url": "https://www.youtube.com/watch?v=cXHUgdeiiug"
         },
@@ -202,10 +206,6 @@
         {
           "titulo": "A Maledicência",
           "url": "https://www.youtube.com/watch?v=D4vRo-PFEw0"
-        },
-        {
-          "titulo": "A Humildade",
-          "url": "https://www.youtube.com/watch?v=HukODP9o2G8"
         }
       ]
     },
