@@ -44,6 +44,10 @@
       "cor": "#C08F29",
       "videos": [
         {
+          "titulo": "Um convite para o seu maior projeto",
+          "url": "https://www.youtube.com/watch?v=xw8u2IqeBFA"
+        },
+        {
           "titulo": "A nossa jornada vai começar!",
           "url": "https://www.youtube.com/watch?v=ebP5hB29Dds"
         },
@@ -66,10 +70,6 @@
         {
           "titulo": "Não dirija a Ferrari sem motor!",
           "url": "https://www.youtube.com/watch?v=oeZBA3U1Vrs"
-        },
-        {
-          "titulo": "Por que tantas mulheres não querem mais ser mãe?",
-          "url": "https://www.youtube.com/watch?v=i2MTzdmWWS8"
         }
       ]
     },
@@ -77,6 +77,10 @@
       "titulo": "Padre Leonardo",
       "cor": "#1A293A",
       "videos": [
+        {
+          "titulo": "VÍCIOS: Dica SIMPLES e PRÁTICA para VENCÊ-LOS",
+          "url": "https://www.youtube.com/watch?v=TRRBs2Pk3TA"
+        },
         {
           "titulo": "Como não cair no mesmo pecado de novo?",
           "url": "https://www.youtube.com/watch?v=jOsxRRqBqNI"
@@ -100,10 +104,6 @@
         {
           "titulo": "Como se livrar dos VÍCIOS? - Projeto Sede Santos #008",
           "url": "https://www.youtube.com/watch?v=tgT0OGyR1zM"
-        },
-        {
-          "titulo": "O que é a VIRTUDE? O que é ser VIRTUOSO?",
-          "url": "https://www.youtube.com/watch?v=yr5YNdey-Z4"
         }
       ]
     },
@@ -248,6 +248,10 @@
       "cor": "#3F9C7A",
       "videos": [
         {
+          "titulo": "TAPA CULTURAL #16 - Gabinete do Ódio - Revelaremos os bastidores!",
+          "url": "https://www.youtube.com/watch?v=v1XBORIa3SE"
+        },
+        {
           "titulo": "TAPA CULTURAL #15 - A Ditadura Sanitária chegou no Vaticano",
           "url": "https://www.youtube.com/watch?v=9gmz4qWcYKk"
         },
@@ -270,10 +274,6 @@
         {
           "titulo": "TAPA CULTURAL #12 - Comunismo: Voluntário e 'Involuntário'",
           "url": "https://www.youtube.com/watch?v=1-Bm7L-99eo"
-        },
-        {
-          "titulo": "TAPA CULTURAL #11 - Quem move o Brasil?",
-          "url": "https://www.youtube.com/watch?v=pxWPQIxchkY"
         }
       ]
     },
