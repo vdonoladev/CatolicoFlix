@@ -214,6 +214,10 @@
       "cor": "#EA9506",
       "videos": [
         {
+          "titulo": "A beleza que salva, Jesus Cristo",
+          "url": "https://www.youtube.com/watch?v=xn1fweSpGeo"
+        },
+        {
           "titulo": "Finalmente, a Missa Romana!",
           "url": "https://www.youtube.com/watch?v=O5XW5_fVjuw"
         },
@@ -236,10 +240,6 @@
         {
           "titulo": "Vários ritos orientais encontram-se na liturgia bizantina. No Ocidente, haverá algo semelhante.",
           "url": "https://www.youtube.com/watch?v=Xl1BMM9AVlY"
-        },
-        {
-          "titulo": "Perguntaram-me: E o livro de São Cipriano?",
-          "url": "https://www.youtube.com/watch?v=Npxbnpl9KGk"
         }
       ]
     },
