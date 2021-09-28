@@ -44,6 +44,14 @@
       "cor": "#C08F29",
       "videos": [
         {
+          "titulo": "CHEGOU O GRANDE DIA!",
+          "url": "https://www.youtube.com/watch?v=6PaasJ7f9qs"
+        },
+        {
+          "titulo": "Você foi feito para amar Jesus!",
+          "url": "https://www.youtube.com/watch?v=kPcAiiOeVwo"
+        },
+        {
           "titulo": "Um convite para o seu maior projeto",
           "url": "https://www.youtube.com/watch?v=xw8u2IqeBFA"
         },
@@ -62,14 +70,6 @@
         {
           "titulo": "Padre Paulo tem um segredo para lhe contar!",
           "url": "https://www.youtube.com/watch?v=pB3hpY3gkNs"
-        },
-        {
-          "titulo": "Não construa sua casa sobre a areia!",
-          "url": "https://www.youtube.com/watch?v=P06RuNxDkRo"
-        },
-        {
-          "titulo": "Não dirija a Ferrari sem motor!",
-          "url": "https://www.youtube.com/watch?v=oeZBA3U1Vrs"
         }
       ]
     },
