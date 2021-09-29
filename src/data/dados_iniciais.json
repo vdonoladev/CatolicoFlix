@@ -282,6 +282,10 @@
       "cor": "#ED285F",
       "videos": [
         {
+          "titulo": "O que é terapia pra mim?",
+          "url": "https://www.youtube.com/watch?v=0FE-FXBrI0w"
+        },
+        {
           "titulo": "Live #225",
           "url": "https://www.youtube.com/watch?v=E-nHUg7AFkg"
         },
@@ -304,10 +308,6 @@
         {
           "titulo": "A reação HISTÉRICA à LISTA POLÊMICA | Live #221",
           "url": "https://www.youtube.com/watch?v=ZStT4GPussU"
-        },
-        {
-          "titulo": "Nasce uma nova geração de terapeutas - Certificação Italo Marsili",
-          "url": "https://www.youtube.com/watch?v=J2ESc1Oz8dw"
         }
       ]
     }
