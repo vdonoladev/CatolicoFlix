@@ -44,6 +44,10 @@
       "cor": "#C08F29",
       "videos": [
         {
+          "titulo": "Saia desta jaula!",
+          "url": "https://www.youtube.com/watch?v=eVDM_170EyQ"
+        },
+        {
           "titulo": "O Apocalipse em nossas vidas",
           "url": "https://www.youtube.com/watch?v=eiARAsAu6Vg"
         },
@@ -66,10 +70,6 @@
         {
           "titulo": "'Direção Espiritual', com Padre Paulo Ricardo: vai começar a nossa Jornada!",
           "url": "https://www.youtube.com/watch?v=SpoLkcM9fA4"
-        },
-        {
-          "titulo": "Pare de atrapalhar Deus!",
-          "url": "https://www.youtube.com/watch?v=8inwELig8WA"
         }
       ]
     },
@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "Nunca fizemos nada parecido e você fará parte disso!",
+          "url": "https://www.youtube.com/watch?v=sv58pJIlLUw"
+        },
+        {
           "titulo": "As ideias que elevaram a Civilização Ocidental",
           "url": "https://www.youtube.com/watch?v=Sf3IPqzVMT8"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "Catecismo da Crise (Aula 9. Aspectos práticos da Revolução Litúrgica de Paulo VI) - Pedro Affonseca.",
           "url": "https://www.youtube.com/watch?v=zcLU-MLxIns"
-        },
-        {
-          "titulo": "A atuação demoníaca na matéria e como evitá-la - Padre Paulo Ricardo",
-          "url": "https://www.youtube.com/watch?v=eVUU6e35VJI"
         }
       ]
     },
@@ -214,6 +214,10 @@
       "cor": "#EA9506",
       "videos": [
         {
+          "titulo": "Gn 6,5-8. Morrer afogado ou queimadinho?",
+          "url": "https://www.youtube.com/watch?v=kqyDH_Win4M"
+        },
+        {
           "titulo": "5. Fé e redenção",
           "url": "https://www.youtube.com/watch?v=LOA75MQZXdE"
         },
@@ -236,10 +240,6 @@
         {
           "titulo": "No dia 19 de setembro, o Pe. Françoá Costa batizou 18 adultos. Nesta ocasião, ele lhes exortou...",
           "url": "https://www.youtube.com/watch?v=ob3OiOf_haw"
-        },
-        {
-          "titulo": "Relacione-se Mc 9,30-37 com a vida de São Pio de Pietrelcina (1887 - 1968), celebrado no dia 23/09",
-          "url": "https://www.youtube.com/watch?v=ZNzlWqYqsgs"
         }
       ]
     },
@@ -282,6 +282,14 @@
       "cor": "#ED285F",
       "videos": [
         {
+          "titulo": "Criei um E-MAIL PARA VOCÊ FALAR DIRETAMENTE COMIGO | Live #226",
+          "url": "https://www.youtube.com/watch?v=SB-EUQGbCOo"
+        },
+        {
+          "titulo": "Uma chave para a compreensão do comportamento humano",
+          "url": "https://www.youtube.com/watch?v=eUtrRWHG_Ps"
+        },
+        {
           "titulo": "O que é terapia pra mim?",
           "url": "https://www.youtube.com/watch?v=0FE-FXBrI0w"
         },
@@ -300,14 +308,6 @@
         {
           "titulo": "CONVITE ESPECIAL | Lançamento da Certificação Italo Marsili",
           "url": "https://www.youtube.com/watch?v=9eav_cRbpJM"
-        },
-        {
-          "titulo": "A PIRATARIA e a deformação da CONSCIÊNCIA | Live #222",
-          "url": "https://www.youtube.com/watch?v=64_LN_5nQ6E"
-        },
-        {
-          "titulo": "A reação HISTÉRICA à LISTA POLÊMICA | Live #221",
-          "url": "https://www.youtube.com/watch?v=ZStT4GPussU"
         }
       ]
     }
