@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Dominical - 03/10",
+          "url": "https://www.youtube.com/watch?v=q-n85lsxElA"
+        },
+        {
           "titulo": "Homilia Diária - 02/10",
           "url": "https://www.youtube.com/watch?v=fjnasvYKJjo"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 27/09",
           "url": "https://www.youtube.com/watch?v=kTQgfiFolPg"
-        },
-        {
-          "titulo": "Homilia Dominical - 26/09",
-          "url": "https://www.youtube.com/watch?v=25HBekibaA0"
         }
       ]
     },
@@ -43,6 +43,10 @@
       "titulo": "Padre Paulo Ricardo",
       "cor": "#C08F29",
       "videos": [
+        {
+          "titulo": "Você não está sozinho!",
+          "url": "https://www.youtube.com/watch?v=NC-2c7VKLEA"
+        },
         {
           "titulo": "Saia desta jaula!",
           "url": "https://www.youtube.com/watch?v=eVDM_170EyQ"
@@ -66,10 +70,6 @@
         {
           "titulo": "A nossa jornada vai começar!",
           "url": "https://www.youtube.com/watch?v=ebP5hB29Dds"
-        },
-        {
-          "titulo": "'Direção Espiritual', com Padre Paulo Ricardo: vai começar a nossa Jornada!",
-          "url": "https://www.youtube.com/watch?v=SpoLkcM9fA4"
         }
       ]
     },
