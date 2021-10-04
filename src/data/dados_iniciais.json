@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 05/10",
+          "url": "https://www.youtube.com/watch?v=tcZK_Siz5t4"
+        },
+        {
           "titulo": "Homilia Diária - 04/10",
           "url": "https://www.youtube.com/watch?v=K-GpoOFCjTg"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 29/09",
           "url": "https://www.youtube.com/watch?v=heR3ZGOlIB4"
-        },
-        {
-          "titulo": "Homilia Diária - 28/09",
-          "url": "https://www.youtube.com/watch?v=h3yhkKk1m68"
         }
       ]
     },
@@ -43,6 +43,10 @@
       "titulo": "Padre Paulo Ricardo",
       "cor": "#C08F29",
       "videos": [
+        {
+          "titulo": "Cansado de correr?",
+          "url": "https://www.youtube.com/watch?v=bHBly5Bs1Wg"
+        },
         {
           "titulo": "Você não está sozinho!",
           "url": "https://www.youtube.com/watch?v=NC-2c7VKLEA"
@@ -66,10 +70,6 @@
         {
           "titulo": "Um convite para o seu maior projeto",
           "url": "https://www.youtube.com/watch?v=xw8u2IqeBFA"
-        },
-        {
-          "titulo": "A nossa jornada vai começar!",
-          "url": "https://www.youtube.com/watch?v=ebP5hB29Dds"
         }
       ]
     },
@@ -78,7 +78,11 @@
       "cor": "#1A293A",
       "videos": [
         {
-          "titulo": "Distrair-se nas orações é pecado? - Projeto Sede Santos ",
+          "titulo": "Quem se DEITA acordado pode cair na mão do satanás",
+          "url": "https://www.youtube.com/watch?v=vJV-Pcw2ULo"
+        },
+        {
+          "titulo": "Distrair-se nas orações é pecado? - Projeto Sede Santos",
           "url": "https://www.youtube.com/watch?v=DVrkp3NrkaQ"
         },
         {
@@ -100,10 +104,6 @@
         {
           "titulo": "Como não cair no mesmo pecado de novo?",
           "url": "https://www.youtube.com/watch?v=jOsxRRqBqNI"
-        },
-        {
-          "titulo": "Como EVANGELIZAR a FAMÍLIA? - Projeto 11:15 #012",
-          "url": "https://www.youtube.com/watch?v=XXmEyFPlSZM"
         }
       ]
     },
@@ -214,6 +214,10 @@
       "cor": "#EA9506",
       "videos": [
         {
+          "titulo": "Para divorciar-se é preciso casar-se",
+          "url": "https://www.youtube.com/watch?v=2bzaDn3EKjo"
+        },
+        {
           "titulo": "Sacramentários e Missal",
           "url": "https://www.youtube.com/watch?v=_0TKw4K-Omc"
         },
@@ -236,10 +240,6 @@
         {
           "titulo": "Gn 6,1-4 - Os filhos de Deus: quem são?",
           "url": "https://www.youtube.com/watch?v=tdvuhlN_3l4"
-        },
-        {
-          "titulo": "4. Unidade e santidade de Cristo",
-          "url": "https://www.youtube.com/watch?v=ULhIWUShQi4"
         }
       ]
     },
@@ -247,6 +247,10 @@
       "titulo": "Bernardo P Küster",
       "cor": "#3F9C7A",
       "videos": [
+        {
+          "titulo": "TAPA CULTURAL #18 - Filmes & P#t@ria",
+          "url": "https://www.youtube.com/watch?v=JlIm2pJpNhg"
+        },
         {
           "titulo": "TAPA CULTURAL #17 - Linguagem neutra: artifício totalitário",
           "url": "https://www.youtube.com/watch?v=qhyPwm1vopU"
@@ -270,10 +274,6 @@
         {
           "titulo": "TAPA CULTURAL #14 - Paulo Freire - O Pai do Dilmês",
           "url": "https://www.youtube.com/watch?v=r1c05jHm_jE"
-        },
-        {
-          "titulo": "TAPA CULTURAL #13 - Cultura e Governo - Qual o limite desta relação?",
-          "url": "https://www.youtube.com/watch?v=lZE9ANaJcYA"
         }
       ]
     },
