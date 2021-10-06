@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 06/10",
+          "url": "https://www.youtube.com/watch?v=9lhBrZRGFf4"
+        },
+        {
           "titulo": "Homilia Diária - 05/10",
           "url": "https://www.youtube.com/watch?v=tcZK_Siz5t4"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 30/09",
           "url": "https://www.youtube.com/watch?v=QOqTvLKSBxI"
-        },
-        {
-          "titulo": "Homilia Diária - 29/09",
-          "url": "https://www.youtube.com/watch?v=heR3ZGOlIB4"
         }
       ]
     },
@@ -78,6 +78,10 @@
       "cor": "#1A293A",
       "videos": [
         {
+          "titulo": "Como pecamos através do olhar? - Projeto Sede Santos",
+          "url": "https://www.youtube.com/watch?v=yoQ8-s2j0qQ"
+        },
+        {
           "titulo": "A PREGUIÇA de LACRAR na internet",
           "url": "https://www.youtube.com/watch?v=Qv15H3fHKjw"
         },
@@ -100,10 +104,6 @@
         {
           "titulo": "O pecado da PREGUIÇA - Projeto Sede Santos",
           "url": "https://www.youtube.com/watch?v=HKyDwRsz1_8"
-        },
-        {
-          "titulo": "VÍCIOS: Dica SIMPLES e PRÁTICA para VENCÊ-LOS",
-          "url": "https://www.youtube.com/watch?v=TRRBs2Pk3TA"
         }
       ]
     },
@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "Só o Brasil terá esse tesouro disponível!",
+          "url": "https://www.youtube.com/watch?v=lM-rzCi1bpw"
+        },
+        {
           "titulo": "Bate-Papo sobre o Padre Antônio Vieira - Sergio Pachá e Sidney Silveira",
           "url": "https://www.youtube.com/watch?v=qXp6fhHNjQU"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "Ministro do Meio Ambiente manda entregar as chaves",
           "url": "https://www.youtube.com/watch?v=G0aSK45ZDqk"
-        },
-        {
-          "titulo": "Santo Rosário pelo Brasil! - (25/09/2021)",
-          "url": "https://www.youtube.com/watch?v=fDd8ToIjMaA"
         }
       ]
     },
@@ -248,6 +248,10 @@
       "cor": "#3F9C7A",
       "videos": [
         {
+          "titulo": "Apagão nas redes e Guedes na mira",
+          "url": "https://www.youtube.com/watch?v=QqYV3ZtEH1g"
+        },
+        {
           "titulo": "TAPA CULTURAL #18 - Filmes & P#t@ria",
           "url": "https://www.youtube.com/watch?v=JlIm2pJpNhg"
         },
@@ -270,10 +274,6 @@
         {
           "titulo": "Bolsonaro come pizza na ONU",
           "url": "https://www.youtube.com/watch?v=a_OxuL6rgt0"
-        },
-        {
-          "titulo": "TAPA CULTURAL #14 - Paulo Freire - O Pai do Dilmês",
-          "url": "https://www.youtube.com/watch?v=r1c05jHm_jE"
         }
       ]
     },
@@ -282,7 +282,11 @@
       "cor": "#ED285F",
       "videos": [
         {
-          "titulo": "FALE COM O DOC | EP.1",
+          "titulo": "Uma visão reflexiva e crítica sobre a realidade humana",
+          "url": "https://www.youtube.com/watch?v=0pUyZM_tZLU"
+        },
+        {
+          "titulo": "Como lidar com a perda de uma filha | Fale com o Doc. #001",
           "url": "https://www.youtube.com/watch?v=eyEu2jnoWdk"
         },
         {
@@ -304,10 +308,6 @@
         {
           "titulo": "Uma geração inteira PARALISADA pelo MEDO | Live #224",
           "url": "https://www.youtube.com/watch?v=Ri3acgttfKE"
-        },
-        {
-          "titulo": "Como agir PERFEITAMENTE no seu DIA A DIA? | Live #223",
-          "url": "https://www.youtube.com/watch?v=jtj8Fiqfo-U"
         }
       ]
     }
