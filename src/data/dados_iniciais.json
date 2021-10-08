@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 08/10",
+          "url": "https://www.youtube.com/watch?v=vtGatcQAzW4"
+        },
+        {
           "titulo": "Homilia Diária - 07/10",
           "url": "https://www.youtube.com/watch?v=akeLrldxZlM"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 02/10",
           "url": "https://www.youtube.com/watch?v=fjnasvYKJjo"
-        },
-        {
-          "titulo": "Homilia Diária - 01/10",
-          "url": "https://www.youtube.com/watch?v=xPJvvcBGnpI"
         }
       ]
     },
@@ -78,6 +78,18 @@
       "cor": "#1A293A",
       "videos": [
         {
+          "titulo": "Nunca faça isso na Igreja!",
+          "url": "https://www.youtube.com/watch?v=6-unNSR4bnA"
+        },
+        {
+          "titulo": "Essa FUNÇÃO do CELULAR pode te levar ao PECADO",
+          "url": "https://www.youtube.com/watch?v=J0p41MKCGyw"
+        },
+        {
+          "titulo": "Como descobri minha VOCAÇÃO?",
+          "url": "https://www.youtube.com/watch?v=gwUG47lA8X4"
+        },
+        {
           "titulo": "Você também precisa rezar assim para progredir para a santidade!",
           "url": "https://www.youtube.com/watch?v=1OBiVKAem2g"
         },
@@ -92,18 +104,6 @@
         {
           "titulo": "A PREGUIÇA de LACRAR na internet",
           "url": "https://www.youtube.com/watch?v=Qv15H3fHKjw"
-        },
-        {
-          "titulo": "Quem se DEITA acordado pode cair na mão do satanás",
-          "url": "https://www.youtube.com/watch?v=vJV-Pcw2ULo"
-        },
-        {
-          "titulo": "Distrair-se nas orações é pecado? - Projeto Sede Santos",
-          "url": "https://www.youtube.com/watch?v=DVrkp3NrkaQ"
-        },
-        {
-          "titulo": "Esses erros ACABAM com sua evangelização",
-          "url": "https://www.youtube.com/watch?v=IzJ3o37ZLPQ"
         }
       ]
     },
@@ -111,6 +111,10 @@
       "titulo": "Marcos Natan",
       "cor": "#83BADC",
       "videos": [
+        {
+          "titulo": "EUCARÍSTIA: ALIMENTO PARA A ALMA // PREGAÇÃO // MARCOS NATAN",
+          "url": "https://www.youtube.com/watch?v=5nzQ-NyXcwQ"
+        },
         {
           "titulo": "CASAMENTO NATAN E ELISA | O GRANDE DIA CHEGOU",
           "url": "https://www.youtube.com/watch?v=j-siESl7PEg"
@@ -134,10 +138,6 @@
         {
           "titulo": "Vaticano proíbe benção a casamento gay com aprovação do Papa Francisco",
           "url": "https://www.youtube.com/watch?v=hmFJaryPTHw"
-        },
-        {
-          "titulo": "FAMÍLIA MISSIONÁRIA DE JESUS // MARCOS NATAN",
-          "url": "https://www.youtube.com/watch?v=48VO730E7Eo"
         }
       ]
     },
@@ -145,6 +145,10 @@
       "titulo": "Centro Dom Bosco",
       "cor": "#921314",
       "videos": [
+        {
+          "titulo": "SIDNEY SILVEIRA | CDB Entrevista: Sobre a Desordem do Mundo Moderno #001",
+          "url": "https://www.youtube.com/watch?v=XcToblE6wyQ"
+        },
         {
           "titulo": "CNBB abre consulta sobre a Campanha de 2023!",
           "url": "https://www.youtube.com/watch?v=kU4YpZI7ulE"
@@ -168,10 +172,6 @@
         {
           "titulo": "Nunca fizemos nada parecido e você fará parte disso!",
           "url": "https://www.youtube.com/watch?v=sv58pJIlLUw"
-        },
-        {
-          "titulo": "As ideias que elevaram a Civilização Ocidental",
-          "url": "https://www.youtube.com/watch?v=Sf3IPqzVMT8"
         }
       ]
     },
@@ -282,6 +282,14 @@
       "cor": "#ED285F",
       "videos": [
         {
+          "titulo": "Fale com o Doc. #003",
+          "url": "https://www.youtube.com/watch?v=DjHRXwy51EY"
+        },
+        {
+          "titulo": "A moda como ferramenta de amadurecimento humano",
+          "url": "https://www.youtube.com/watch?v=GJxrN6fbkGU"
+        },
+        {
           "titulo": "A nutrição vai transformar sua abordagem terapêutica",
           "url": "https://www.youtube.com/watch?v=wWn3ovmZD4I"
         },
@@ -300,14 +308,6 @@
         {
           "titulo": "Criei um E-MAIL PARA VOCÊ FALAR DIRETAMENTE COMIGO | Live #226",
           "url": "https://www.youtube.com/watch?v=SB-EUQGbCOo"
-        },
-        {
-          "titulo": "Uma chave para a compreensão do comportamento humano",
-          "url": "https://www.youtube.com/watch?v=eUtrRWHG_Ps"
-        },
-        {
-          "titulo": "O que é terapia pra mim?",
-          "url": "https://www.youtube.com/watch?v=0FE-FXBrI0w"
         }
       ]
     }
