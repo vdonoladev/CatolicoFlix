@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 09/10",
+          "url": "https://www.youtube.com/watch?v=NWSZFWwvjHk"
+        },
+        {
           "titulo": "Homilia Diária - 08/10",
           "url": "https://www.youtube.com/watch?v=vtGatcQAzW4"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Dominical - 03/10",
           "url": "https://www.youtube.com/watch?v=q-n85lsxElA"
-        },
-        {
-          "titulo": "Homilia Diária - 02/10",
-          "url": "https://www.youtube.com/watch?v=fjnasvYKJjo"
         }
       ]
     },
@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "O que pensar da Teologia da Libertação? | Cortes CDB",
+          "url": "https://www.youtube.com/watch?v=X5t0w4kbRUk"
+        },
+        {
           "titulo": "SIDNEY SILVEIRA | CDB Entrevista: Sobre a Desordem do Mundo Moderno #001",
           "url": "https://www.youtube.com/watch?v=XcToblE6wyQ"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "O catolicismo aguado não converte ninguém!",
           "url": "https://www.youtube.com/watch?v=6_tlWSWVFJc"
-        },
-        {
-          "titulo": "Nunca fizemos nada parecido e você fará parte disso!",
-          "url": "https://www.youtube.com/watch?v=sv58pJIlLUw"
         }
       ]
     },
@@ -282,7 +282,7 @@
       "cor": "#ED285F",
       "videos": [
         {
-          "titulo": "Fale com o Doc. #003",
+          "titulo": "A dignidade de um homem transita entre a liberdade e a responsabilidade | Fale com o Doc. #003",
           "url": "https://www.youtube.com/watch?v=DjHRXwy51EY"
         },
         {
