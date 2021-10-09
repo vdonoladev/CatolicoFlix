@@ -282,6 +282,10 @@
       "cor": "#ED285F",
       "videos": [
         {
+          "titulo": "Se você é coach, assista a este vídeo",
+          "url": "https://www.youtube.com/watch?v=zyoOC4i5-jI"
+        },
+        {
           "titulo": "A dignidade de um homem transita entre a liberdade e a responsabilidade | Fale com o Doc. #003",
           "url": "https://www.youtube.com/watch?v=DjHRXwy51EY"
         },
@@ -304,10 +308,6 @@
         {
           "titulo": "Como lidar com a perda de uma filha | Fale com o Doc. #001",
           "url": "https://www.youtube.com/watch?v=eyEu2jnoWdk"
-        },
-        {
-          "titulo": "Criei um E-MAIL PARA VOCÊ FALAR DIRETAMENTE COMIGO | Live #226",
-          "url": "https://www.youtube.com/watch?v=SB-EUQGbCOo"
         }
       ]
     }
