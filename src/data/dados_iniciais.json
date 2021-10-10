@@ -78,6 +78,10 @@
       "cor": "#1A293A",
       "videos": [
         {
+          "titulo": "Você tem PREGUIÇA de ir à MISSA?",
+          "url": "https://www.youtube.com/watch?v=iBVmt-JD3Gw"
+        },
+        {
           "titulo": "Santidade da Família - Projeto Sede Santos",
           "url": "https://www.youtube.com/watch?v=Tj81k-9tnfM"
         },
@@ -100,10 +104,6 @@
         {
           "titulo": "Como sua PREGUIÇA pode te fazer SANTO",
           "url": "https://www.youtube.com/watch?v=wHJvmokIKqc"
-        },
-        {
-          "titulo": "Como pecamos através do olhar? - Projeto Sede Santos",
-          "url": "https://www.youtube.com/watch?v=yoQ8-s2j0qQ"
         }
       ]
     },
@@ -180,6 +180,10 @@
       "cor": "#E00507",
       "videos": [
         {
+          "titulo": "Os Milagres",
+          "url": "https://www.youtube.com/watch?v=RekSYD_dQ5s"
+        },
+        {
           "titulo": "Cristo no Sacrário",
           "url": "https://www.youtube.com/watch?v=sjiWFuNqxmU"
         },
@@ -202,10 +206,6 @@
         {
           "titulo": "A Reparação dos Pecados",
           "url": "https://www.youtube.com/watch?v=lg5GOwD8njI"
-        },
-        {
-          "titulo": "A Arca da Nova Aliança",
-          "url": "https://www.youtube.com/watch?v=4nl9mh4Jydo"
         }
       ]
     },
