@@ -248,6 +248,10 @@
       "cor": "#3F9C7A",
       "videos": [
         {
+          "titulo": "TAPA CULTURAL #20 - Pobreza MENSTRUAL ou MENTAL?",
+          "url": "https://www.youtube.com/watch?v=l-SS1lwKRbs"
+        },
+        {
           "titulo": "TAPA CULTURAL #19 - Tocando o F*DA-SE sobre PORNOGRAFIA",
           "url": "https://www.youtube.com/watch?v=9bR6-UOdIWo"
         },
@@ -270,10 +274,6 @@
         {
           "titulo": "TAPA CULTURAL #16 - Gabinete do Ódio - Revelaremos os bastidores!",
           "url": "https://www.youtube.com/watch?v=v1XBORIa3SE"
-        },
-        {
-          "titulo": "TAPA CULTURAL #15 - A Ditadura Sanitária chegou no Vaticano",
-          "url": "https://www.youtube.com/watch?v=9gmz4qWcYKk"
         }
       ]
     },
@@ -281,6 +281,10 @@
       "titulo": "Italo Marsili",
       "cor": "#ED285F",
       "videos": [
+        {
+          "titulo": "Fale com o Doc. #004",
+          "url": "https://www.youtube.com/watch?v=CVMJex7wGm8"
+        },
         {
           "titulo": "Se você é coach, assista a este vídeo",
           "url": "https://www.youtube.com/watch?v=zyoOC4i5-jI"
@@ -304,10 +308,6 @@
         {
           "titulo": "Uma visão reflexiva e crítica sobre a realidade humana",
           "url": "https://www.youtube.com/watch?v=0pUyZM_tZLU"
-        },
-        {
-          "titulo": "Como lidar com a perda de uma filha | Fale com o Doc. #001",
-          "url": "https://www.youtube.com/watch?v=eyEu2jnoWdk"
         }
       ]
     }
