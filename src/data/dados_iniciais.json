@@ -282,6 +282,10 @@
       "cor": "#ED285F",
       "videos": [
         {
+          "titulo": "Se você é Nutricionista, assista a este vídeo",
+          "url": "https://www.youtube.com/watch?v=jOJS-nhiTuQ"
+        },
+        {
           "titulo": "O caminho do fato real até a fórmula moral não é sempre óbvio | Fale com o Doc. #004",
           "url": "https://www.youtube.com/watch?v=CVMJex7wGm8"
         },
@@ -304,10 +308,6 @@
         {
           "titulo": "A afetividade humana não é medida pelo 'natural' ou 'anti-natural' | Fale com o Doc. #002",
           "url": "https://www.youtube.com/watch?v=lYcD94VNfeg"
-        },
-        {
-          "titulo": "Uma visão reflexiva e crítica sobre a realidade humana",
-          "url": "https://www.youtube.com/watch?v=0pUyZM_tZLU"
         }
       ]
     },
@@ -315,6 +315,10 @@
       "titulo": "Brasil Paralelo",
       "cor": "#DCDCDC",
       "videos": [
+        {
+          "titulo": "NIKOLAS FERREIRA | Conversa Paralela",
+          "url": "https://www.youtube.com/watch?v=DU7QpI7o7jQ"
+        },
         {
           "titulo": "A Sétima Arte - A nova série documental da BP",
           "url": "https://www.youtube.com/watch?v=a8Hu0Z5bPuQ"
@@ -338,10 +342,6 @@
         {
           "titulo": "Insight BP - Qual a importância da Mitologia Grega hoje?",
           "url": "https://www.youtube.com/watch?v=r5Fsr9cB3uw"
-        },
-        {
-          "titulo": "Conversa Paralela - Educação Familiar (Marcello Danucalov e Silvio Medeiros)",
-          "url": "https://www.youtube.com/watch?v=Zwjk2HgQgZ0"
         }
       ]
     }
