@@ -53,6 +53,10 @@ function App() {
         category={dadosIniciais.categorias[8]}
       />  
 
+      <Carousel
+        category={dadosIniciais.categorias[9]}
+      /> 
+
       <Footer />
     </div>
   );

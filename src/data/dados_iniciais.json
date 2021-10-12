@@ -310,6 +310,40 @@
           "url": "https://www.youtube.com/watch?v=0pUyZM_tZLU"
         }
       ]
+    },
+    {
+      "titulo": "Brasil Paralelo",
+      "cor": "#DCDCDC",
+      "videos": [
+        {
+          "titulo": "A Sétima Arte - A nova série documental da BP",
+          "url": "https://www.youtube.com/watch?v=a8Hu0Z5bPuQ"
+        },
+        {
+          "titulo": "VICTOR SORRENTINO | Contraponto",
+          "url": "https://www.youtube.com/watch?v=7njZ30vTp2A"
+        },
+        {
+          "titulo": "Red Pill - Harry Potter é Progressista?",
+          "url": "https://www.youtube.com/watch?v=Zpi3FEnwrP8"
+        },
+        {
+          "titulo": "Rasta News Ep 02 - Empresas Lacradoras",
+          "url": "https://www.youtube.com/watch?v=RltmOwyfUZk"
+        },
+        {
+          "titulo": "Investigação Paralela | Ep 2: Quem matou PC Farias?",
+          "url": "https://www.youtube.com/watch?v=agV-y_3NKSI"
+        },
+        {
+          "titulo": "Insight BP - Qual a importância da Mitologia Grega hoje?",
+          "url": "https://www.youtube.com/watch?v=r5Fsr9cB3uw"
+        },
+        {
+          "titulo": "Conversa Paralela - Educação Familiar (Marcello Danucalov e Silvio Medeiros)",
+          "url": "https://www.youtube.com/watch?v=Zwjk2HgQgZ0"
+        }
+      ]
     }
   ]
 }
