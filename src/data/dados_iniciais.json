@@ -40,6 +40,40 @@
       ]
     },
     {
+      "titulo": "Centro Dom Bosco",
+      "cor": "#921314",
+      "videos": [
+        {
+          "titulo": "A Beleza e a Alma Humana - Prof. Sidney Silveira",
+          "url": "https://www.youtube.com/watch?v=eyI3GRy75t0"
+        },
+        {
+          "titulo": "Sidney Silveira reflete sobre a desordem do mundo moderno",
+          "url": "https://www.youtube.com/watch?v=Pww43YYB0yI"
+        },
+        {
+          "titulo": "O que pensar da Teologia da Libertação? | Cortes CDB",
+          "url": "https://www.youtube.com/watch?v=X5t0w4kbRUk"
+        },
+        {
+          "titulo": "SIDNEY SILVEIRA | CDB Entrevista: Sobre a Desordem do Mundo Moderno #001",
+          "url": "https://www.youtube.com/watch?v=XcToblE6wyQ"
+        },
+        {
+          "titulo": "CNBB abre consulta sobre a Campanha de 2023!",
+          "url": "https://www.youtube.com/watch?v=kU4YpZI7ulE"
+        },
+        {
+          "titulo": "Veja o estúdio que montamos com a sua ajuda!",
+          "url": "https://www.youtube.com/watch?v=wq5-vx5U_kU"
+        },
+        {
+          "titulo": "Só o Brasil terá esse tesouro disponível!",
+          "url": "https://www.youtube.com/watch?v=lM-rzCi1bpw"
+        }
+      ]
+    },
+    {
       "titulo": "Padre Paulo Ricardo",
       "cor": "#C08F29",
       "videos": [
@@ -104,74 +138,6 @@
         {
           "titulo": "Você também precisa rezar assim para progredir para a santidade!",
           "url": "https://www.youtube.com/watch?v=1OBiVKAem2g"
-        }
-      ]
-    },
-    {
-      "titulo": "Marcos Natan",
-      "cor": "#83BADC",
-      "videos": [
-        {
-          "titulo": "AS LÁGRIMAS DE SÃO PEDRO // PREGAÇÃO // MARCOS NATAN",
-          "url": "https://www.youtube.com/watch?v=x-kdSpGK4tU"
-        },
-        {
-          "titulo": "EUCARÍSTIA: ALIMENTO PARA A ALMA // PREGAÇÃO // MARCOS NATAN",
-          "url": "https://www.youtube.com/watch?v=5nzQ-NyXcwQ"
-        },
-        {
-          "titulo": "CASAMENTO NATAN E ELISA | O GRANDE DIA CHEGOU",
-          "url": "https://www.youtube.com/watch?v=j-siESl7PEg"
-        },
-        {
-          "titulo": "CONSAGRAÇÃO À NOSSA SENHORA, DESPERTE E CONSAGRA-SE!",
-          "url": "https://www.youtube.com/watch?v=wu7Bkrxo3ls"
-        },
-        {
-          "titulo": "CORAÇÃO HUMANO DE JESUS // PREGAÇÃO // MARCOS NATAN",
-          "url": "https://www.youtube.com/watch?v=_xUIplHf_OQ"
-        },
-        {
-          "titulo": "COMO MARIA: CHEIOS DO ESPÍRITO SANTO // MARCOS NATAN // COLO DE DEUS",
-          "url": "https://www.youtube.com/watch?v=z5KDJLEiJbw&t"
-        },
-        {
-          "titulo": "Por que o Papa Francisco declarou um ano de São José?",
-          "url": "https://www.youtube.com/watch?v=IDg3CdTec6w"
-        }
-      ]
-    },
-    {
-      "titulo": "Centro Dom Bosco",
-      "cor": "#921314",
-      "videos": [
-        {
-          "titulo": "A Beleza e a Alma Humana - Prof. Sidney Silveira",
-          "url": "https://www.youtube.com/watch?v=eyI3GRy75t0"
-        },
-        {
-          "titulo": "Sidney Silveira reflete sobre a desordem do mundo moderno",
-          "url": "https://www.youtube.com/watch?v=Pww43YYB0yI"
-        },
-        {
-          "titulo": "O que pensar da Teologia da Libertação? | Cortes CDB",
-          "url": "https://www.youtube.com/watch?v=X5t0w4kbRUk"
-        },
-        {
-          "titulo": "SIDNEY SILVEIRA | CDB Entrevista: Sobre a Desordem do Mundo Moderno #001",
-          "url": "https://www.youtube.com/watch?v=XcToblE6wyQ"
-        },
-        {
-          "titulo": "CNBB abre consulta sobre a Campanha de 2023!",
-          "url": "https://www.youtube.com/watch?v=kU4YpZI7ulE"
-        },
-        {
-          "titulo": "Veja o estúdio que montamos com a sua ajuda!",
-          "url": "https://www.youtube.com/watch?v=wq5-vx5U_kU"
-        },
-        {
-          "titulo": "Só o Brasil terá esse tesouro disponível!",
-          "url": "https://www.youtube.com/watch?v=lM-rzCi1bpw"
         }
       ]
     },
@@ -244,6 +210,74 @@
       ]
     },
     {
+      "titulo": "Marcos Natan",
+      "cor": "#83BADC",
+      "videos": [
+        {
+          "titulo": "AS LÁGRIMAS DE SÃO PEDRO // PREGAÇÃO // MARCOS NATAN",
+          "url": "https://www.youtube.com/watch?v=x-kdSpGK4tU"
+        },
+        {
+          "titulo": "EUCARÍSTIA: ALIMENTO PARA A ALMA // PREGAÇÃO // MARCOS NATAN",
+          "url": "https://www.youtube.com/watch?v=5nzQ-NyXcwQ"
+        },
+        {
+          "titulo": "CASAMENTO NATAN E ELISA | O GRANDE DIA CHEGOU",
+          "url": "https://www.youtube.com/watch?v=j-siESl7PEg"
+        },
+        {
+          "titulo": "CONSAGRAÇÃO À NOSSA SENHORA, DESPERTE E CONSAGRA-SE!",
+          "url": "https://www.youtube.com/watch?v=wu7Bkrxo3ls"
+        },
+        {
+          "titulo": "CORAÇÃO HUMANO DE JESUS // PREGAÇÃO // MARCOS NATAN",
+          "url": "https://www.youtube.com/watch?v=_xUIplHf_OQ"
+        },
+        {
+          "titulo": "COMO MARIA: CHEIOS DO ESPÍRITO SANTO // MARCOS NATAN // COLO DE DEUS",
+          "url": "https://www.youtube.com/watch?v=z5KDJLEiJbw&t"
+        },
+        {
+          "titulo": "Por que o Papa Francisco declarou um ano de São José?",
+          "url": "https://www.youtube.com/watch?v=IDg3CdTec6w"
+        }
+      ]
+    },
+    {
+      "titulo": "Brasil Paralelo",
+      "cor": "#DCDCDC",
+      "videos": [
+        {
+          "titulo": "NIKOLAS FERREIRA | Conversa Paralela",
+          "url": "https://www.youtube.com/watch?v=DU7QpI7o7jQ"
+        },
+        {
+          "titulo": "A Sétima Arte - A nova série documental da BP",
+          "url": "https://www.youtube.com/watch?v=a8Hu0Z5bPuQ"
+        },
+        {
+          "titulo": "VICTOR SORRENTINO | Contraponto",
+          "url": "https://www.youtube.com/watch?v=7njZ30vTp2A"
+        },
+        {
+          "titulo": "Red Pill - Harry Potter é Progressista?",
+          "url": "https://www.youtube.com/watch?v=Zpi3FEnwrP8"
+        },
+        {
+          "titulo": "Rasta News Ep 02 - Empresas Lacradoras",
+          "url": "https://www.youtube.com/watch?v=RltmOwyfUZk"
+        },
+        {
+          "titulo": "Investigação Paralela | Ep 2: Quem matou PC Farias?",
+          "url": "https://www.youtube.com/watch?v=agV-y_3NKSI"
+        },
+        {
+          "titulo": "Insight BP - Qual a importância da Mitologia Grega hoje?",
+          "url": "https://www.youtube.com/watch?v=r5Fsr9cB3uw"
+        }
+      ]
+    },
+    {
       "titulo": "Bernardo P Küster",
       "cor": "#3F9C7A",
       "videos": [
@@ -308,40 +342,6 @@
         {
           "titulo": "A afetividade humana não é medida pelo 'natural' ou 'anti-natural' | Fale com o Doc. #002",
           "url": "https://www.youtube.com/watch?v=lYcD94VNfeg"
-        }
-      ]
-    },
-    {
-      "titulo": "Brasil Paralelo",
-      "cor": "#DCDCDC",
-      "videos": [
-        {
-          "titulo": "NIKOLAS FERREIRA | Conversa Paralela",
-          "url": "https://www.youtube.com/watch?v=DU7QpI7o7jQ"
-        },
-        {
-          "titulo": "A Sétima Arte - A nova série documental da BP",
-          "url": "https://www.youtube.com/watch?v=a8Hu0Z5bPuQ"
-        },
-        {
-          "titulo": "VICTOR SORRENTINO | Contraponto",
-          "url": "https://www.youtube.com/watch?v=7njZ30vTp2A"
-        },
-        {
-          "titulo": "Red Pill - Harry Potter é Progressista?",
-          "url": "https://www.youtube.com/watch?v=Zpi3FEnwrP8"
-        },
-        {
-          "titulo": "Rasta News Ep 02 - Empresas Lacradoras",
-          "url": "https://www.youtube.com/watch?v=RltmOwyfUZk"
-        },
-        {
-          "titulo": "Investigação Paralela | Ep 2: Quem matou PC Farias?",
-          "url": "https://www.youtube.com/watch?v=agV-y_3NKSI"
-        },
-        {
-          "titulo": "Insight BP - Qual a importância da Mitologia Grega hoje?",
-          "url": "https://www.youtube.com/watch?v=r5Fsr9cB3uw"
         }
       ]
     }
