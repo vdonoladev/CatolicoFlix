@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 12/10",
+          "url": "https://www.youtube.com/watch?v=bJEZ_gZqum4"
+        },
+        {
           "titulo": "Homilia Diária - 11/10",
           "url": "https://www.youtube.com/watch?v=Moz_1EKSz6U"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 06/10",
           "url": "https://www.youtube.com/watch?v=9lhBrZRGFf4"
-        },
-        {
-          "titulo": "Homilia Diária - 05/10",
-          "url": "https://www.youtube.com/watch?v=tcZK_Siz5t4"
         }
       ]
     },
@@ -43,6 +43,10 @@
       "titulo": "Padre Paulo Ricardo",
       "cor": "#C08F29",
       "videos": [
+        {
+          "titulo": "Carlo Acutis e a mensagem de Fátima",
+          "url": "https://www.youtube.com/watch?v=6ijp_rO0QnE"
+        },
         {
           "titulo": "Cansado de correr?",
           "url": "https://www.youtube.com/watch?v=bHBly5Bs1Wg"
@@ -66,10 +70,6 @@
         {
           "titulo": "Você foi feito para amar Jesus!",
           "url": "https://www.youtube.com/watch?v=kPcAiiOeVwo"
-        },
-        {
-          "titulo": "Um convite para o seu maior projeto",
-          "url": "https://www.youtube.com/watch?v=xw8u2IqeBFA"
         }
       ]
     },
@@ -146,6 +146,10 @@
       "cor": "#921314",
       "videos": [
         {
+          "titulo": "A Beleza e a Alma Humana - Prof. Sidney Silveira",
+          "url": "https://www.youtube.com/watch?v=eyI3GRy75t0"
+        },
+        {
           "titulo": "Sidney Silveira reflete sobre a desordem do mundo moderno",
           "url": "https://www.youtube.com/watch?v=Pww43YYB0yI"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "Só o Brasil terá esse tesouro disponível!",
           "url": "https://www.youtube.com/watch?v=lM-rzCi1bpw"
-        },
-        {
-          "titulo": "Bate-Papo sobre o Padre Antônio Vieira - Sergio Pachá e Sidney Silveira",
-          "url": "https://www.youtube.com/watch?v=qXp6fhHNjQU"
         }
       ]
     },
@@ -214,6 +214,10 @@
       "cor": "#EA9506",
       "videos": [
         {
+          "titulo": "Tem que fazer algo para conseguir a vida eterna?",
+          "url": "https://www.youtube.com/watch?v=w6p6jFevAnw"
+        },
+        {
           "titulo": "6. A vida salvadora de Jesus",
           "url": "https://www.youtube.com/watch?v=zwcVMNc5Fkg"
         },
@@ -236,10 +240,6 @@
         {
           "titulo": "A beleza que salva, Jesus Cristo",
           "url": "https://www.youtube.com/watch?v=xn1fweSpGeo"
-        },
-        {
-          "titulo": "Finalmente, a Missa Romana!",
-          "url": "https://www.youtube.com/watch?v=O5XW5_fVjuw"
         }
       ]
     },
@@ -282,7 +282,7 @@
       "cor": "#ED285F",
       "videos": [
         {
-          "titulo": "Fale com o Doc. #004",
+          "titulo": "O caminho do fato real até a fórmula moral não é sempre óbvio | Fale com o Doc. #004",
           "url": "https://www.youtube.com/watch?v=CVMJex7wGm8"
         },
         {
