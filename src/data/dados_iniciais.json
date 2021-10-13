@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 13/10",
+          "url": "https://www.youtube.com/watch?v=6SaMt93Xzhg"
+        },
+        {
           "titulo": "Homilia Diária - 12/10",
           "url": "https://www.youtube.com/watch?v=bJEZ_gZqum4"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 07/10",
           "url": "https://www.youtube.com/watch?v=akeLrldxZlM"
-        },
-        {
-          "titulo": "Homilia Diária - 06/10",
-          "url": "https://www.youtube.com/watch?v=9lhBrZRGFf4"
         }
       ]
     },
@@ -70,6 +70,40 @@
         {
           "titulo": "Só o Brasil terá esse tesouro disponível!",
           "url": "https://www.youtube.com/watch?v=lM-rzCi1bpw"
+        }
+      ]
+    },
+    {
+      "titulo": "Padre Françoá Costa",
+      "cor": "#EA9506",
+      "videos": [
+        {
+          "titulo": "7. Os mistérios da Glória",
+          "url": "https://www.youtube.com/watch?v=39-38yDDLhI"
+        },
+        {
+          "titulo": "Nossa Senhora Aparecida marca a vocação dos brasileiros",
+          "url": "https://www.youtube.com/watch?v=jwoNp4RlSKE"
+        },
+        {
+          "titulo": "Tem que fazer algo para conseguir a vida eterna?",
+          "url": "https://www.youtube.com/watch?v=w6p6jFevAnw"
+        },
+        {
+          "titulo": "6. A vida salvadora de Jesus",
+          "url": "https://www.youtube.com/watch?v=zwcVMNc5Fkg"
+        },
+        {
+          "titulo": "Para divorciar-se é preciso casar-se",
+          "url": "https://www.youtube.com/watch?v=2bzaDn3EKjo"
+        },
+        {
+          "titulo": "Sacramentários e Missal",
+          "url": "https://www.youtube.com/watch?v=_0TKw4K-Omc"
+        },
+        {
+          "titulo": "Gn 6,5-8. Morrer afogado ou queimadinho?",
+          "url": "https://www.youtube.com/watch?v=kqyDH_Win4M"
         }
       ]
     },
@@ -112,6 +146,14 @@
       "cor": "#1A293A",
       "videos": [
         {
+          "titulo": "Cuidado, você pode estar correndo um grande risco!",
+          "url": "https://www.youtube.com/watch?v=trIVdVgo1FU"
+        },
+        {
+          "titulo": "Quando descumprir promessas é pecado? - Projeto Sede Santos",
+          "url": "https://www.youtube.com/watch?v=Z7c9e5ytKD0"
+        },
+        {
           "titulo": "DICA: Como combater as distrações na oração?",
           "url": "https://www.youtube.com/watch?v=aViEmtLdo4Y"
         },
@@ -130,14 +172,6 @@
         {
           "titulo": "Essa FUNÇÃO do CELULAR pode te levar ao PECADO",
           "url": "https://www.youtube.com/watch?v=J0p41MKCGyw"
-        },
-        {
-          "titulo": "Como descobri minha VOCAÇÃO?",
-          "url": "https://www.youtube.com/watch?v=gwUG47lA8X4"
-        },
-        {
-          "titulo": "Você também precisa rezar assim para progredir para a santidade!",
-          "url": "https://www.youtube.com/watch?v=1OBiVKAem2g"
         }
       ]
     },
@@ -172,40 +206,6 @@
         {
           "titulo": "A Reparação dos Pecados",
           "url": "https://www.youtube.com/watch?v=lg5GOwD8njI"
-        }
-      ]
-    },
-    {
-      "titulo": "Padre Françoá Costa",
-      "cor": "#EA9506",
-      "videos": [
-        {
-          "titulo": "Tem que fazer algo para conseguir a vida eterna?",
-          "url": "https://www.youtube.com/watch?v=w6p6jFevAnw"
-        },
-        {
-          "titulo": "6. A vida salvadora de Jesus",
-          "url": "https://www.youtube.com/watch?v=zwcVMNc5Fkg"
-        },
-        {
-          "titulo": "Para divorciar-se é preciso casar-se",
-          "url": "https://www.youtube.com/watch?v=2bzaDn3EKjo"
-        },
-        {
-          "titulo": "Sacramentários e Missal",
-          "url": "https://www.youtube.com/watch?v=_0TKw4K-Omc"
-        },
-        {
-          "titulo": "Gn 6,5-8. Morrer afogado ou queimadinho?",
-          "url": "https://www.youtube.com/watch?v=kqyDH_Win4M"
-        },
-        {
-          "titulo": "5. Fé e redenção",
-          "url": "https://www.youtube.com/watch?v=LOA75MQZXdE"
-        },
-        {
-          "titulo": "A beleza que salva, Jesus Cristo",
-          "url": "https://www.youtube.com/watch?v=xn1fweSpGeo"
         }
       ]
     },
@@ -278,6 +278,40 @@
       ]
     },
     {
+      "titulo": "Italo Marsili",
+      "cor": "#ED285F",
+      "videos": [
+        {
+          "titulo": "Fale com o Doc. #005",
+          "url": "https://www.youtube.com/watch?v=Y1UJATYwPao"
+        },
+        {
+          "titulo": "As questões de seu paciente são mais emocionais que alimentares? Saiba como agir.",
+          "url": "https://www.youtube.com/watch?v=jOJS-nhiTuQ"
+        },
+        {
+          "titulo": "O caminho do fato real até a fórmula moral não é sempre óbvio | Fale com o Doc. #004",
+          "url": "https://www.youtube.com/watch?v=CVMJex7wGm8"
+        },
+        {
+          "titulo": "Se você é coach, assista a este vídeo",
+          "url": "https://www.youtube.com/watch?v=zyoOC4i5-jI"
+        },
+        {
+          "titulo": "A dignidade de um homem transita entre a liberdade e a responsabilidade | Fale com o Doc. #003",
+          "url": "https://www.youtube.com/watch?v=DjHRXwy51EY"
+        },
+        {
+          "titulo": "A moda como ferramenta de amadurecimento humano",
+          "url": "https://www.youtube.com/watch?v=GJxrN6fbkGU"
+        },
+        {
+          "titulo": "A nutrição vai transformar sua abordagem terapêutica",
+          "url": "https://www.youtube.com/watch?v=wWn3ovmZD4I"
+        }
+      ]
+    },
+    {
       "titulo": "Bernardo P Küster",
       "cor": "#3F9C7A",
       "videos": [
@@ -308,40 +342,6 @@
         {
           "titulo": "TAPA CULTURAL #16 - Gabinete do Ódio - Revelaremos os bastidores!",
           "url": "https://www.youtube.com/watch?v=v1XBORIa3SE"
-        }
-      ]
-    },
-    {
-      "titulo": "Italo Marsili",
-      "cor": "#ED285F",
-      "videos": [
-        {
-          "titulo": "Se você é Nutricionista, assista a este vídeo",
-          "url": "https://www.youtube.com/watch?v=jOJS-nhiTuQ"
-        },
-        {
-          "titulo": "O caminho do fato real até a fórmula moral não é sempre óbvio | Fale com o Doc. #004",
-          "url": "https://www.youtube.com/watch?v=CVMJex7wGm8"
-        },
-        {
-          "titulo": "Se você é coach, assista a este vídeo",
-          "url": "https://www.youtube.com/watch?v=zyoOC4i5-jI"
-        },
-        {
-          "titulo": "A dignidade de um homem transita entre a liberdade e a responsabilidade | Fale com o Doc. #003",
-          "url": "https://www.youtube.com/watch?v=DjHRXwy51EY"
-        },
-        {
-          "titulo": "A moda como ferramenta de amadurecimento humano",
-          "url": "https://www.youtube.com/watch?v=GJxrN6fbkGU"
-        },
-        {
-          "titulo": "A nutrição vai transformar sua abordagem terapêutica",
-          "url": "https://www.youtube.com/watch?v=wWn3ovmZD4I"
-        },
-        {
-          "titulo": "A afetividade humana não é medida pelo 'natural' ou 'anti-natural' | Fale com o Doc. #002",
-          "url": "https://www.youtube.com/watch?v=lYcD94VNfeg"
         }
       ]
     }
