@@ -248,6 +248,18 @@
       "cor": "#DCDCDC",
       "videos": [
         {
+          "titulo": "Médico, Victor Sorrentino fala sobre sua relação com Deus",
+          "url": "https://www.youtube.com/watch?v=MW2gILaqlo0"
+        },
+        {
+          "titulo": "Victor Sorrentino se emociona ao explicar como foi preso no Egito",
+          "url": "https://www.youtube.com/watch?v=pPyGt9-t3zU"
+        },
+        {
+          "titulo": "Victor Sorrentino conta o que sofreu após piada no Egito",
+          "url": "https://www.youtube.com/watch?v=l4hlq26IA8E"
+        },
+        {
           "titulo": "NIKOLAS FERREIRA | Conversa Paralela",
           "url": "https://www.youtube.com/watch?v=9MRuFOGuQPg"
         },
@@ -262,18 +274,6 @@
         {
           "titulo": "Red Pill - Harry Potter é Progressista?",
           "url": "https://www.youtube.com/watch?v=Zpi3FEnwrP8"
-        },
-        {
-          "titulo": "Rasta News Ep 02 - Empresas Lacradoras",
-          "url": "https://www.youtube.com/watch?v=RltmOwyfUZk"
-        },
-        {
-          "titulo": "Investigação Paralela | Ep 2: Quem matou PC Farias?",
-          "url": "https://www.youtube.com/watch?v=agV-y_3NKSI"
-        },
-        {
-          "titulo": "Insight BP - Qual a importância da Mitologia Grega hoje?",
-          "url": "https://www.youtube.com/watch?v=r5Fsr9cB3uw"
         }
       ]
     },
@@ -282,7 +282,11 @@
       "cor": "#ED285F",
       "videos": [
         {
-          "titulo": "Fale com o Doc. #005",
+          "titulo": "Quando as emoções de seu paciente forem decisivas, você terá as ferramentas certas? | Italo Marsilli",
+          "url": "https://www.youtube.com/watch?v=z1LerK83eno"
+        },
+        {
+          "titulo": "Uma live para apaixonadas e desiludidas que agem como mãe do grande amor | Fale com o Doc. #005",
           "url": "https://www.youtube.com/watch?v=Y1UJATYwPao"
         },
         {
@@ -304,10 +308,6 @@
         {
           "titulo": "A moda como ferramenta de amadurecimento humano",
           "url": "https://www.youtube.com/watch?v=GJxrN6fbkGU"
-        },
-        {
-          "titulo": "A nutrição vai transformar sua abordagem terapêutica",
-          "url": "https://www.youtube.com/watch?v=wWn3ovmZD4I"
         }
       ]
     },
