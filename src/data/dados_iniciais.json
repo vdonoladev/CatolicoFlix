@@ -10,6 +10,10 @@
           "url": "https://www.youtube.com/embed/lid7XND3Tlc"
         },
         {
+          "titulo": "Homilia Diária - 15/10",
+          "url": "https://www.youtube.com/watch?v=d8klRtQ6oF8"
+        },
+        {
           "titulo": "Homilia Diária - 14/10",
           "url": "https://www.youtube.com/watch?v=-E7DNKagFtA"
         },
@@ -32,10 +36,6 @@
         {
           "titulo": "Homilia Diária - 09/10",
           "url": "https://www.youtube.com/watch?v=NWSZFWwvjHk"
-        },
-        {
-          "titulo": "Homilia Diária - 08/10",
-          "url": "https://www.youtube.com/watch?v=vtGatcQAzW4"
         }
       ]
     },
@@ -43,6 +43,10 @@
       "titulo": "Centro Dom Bosco",
       "cor": "#921314",
       "videos": [
+        {
+          "titulo": "Um relato sobre exorcismo mudou a minha vida!",
+          "url": "https://www.youtube.com/watch?v=0nEDIpn0QYA"
+        },
         {
           "titulo": "Gravação profana em Igreja de Manaus!",
           "url": "https://www.youtube.com/watch?v=FS1nMOdohkk"
@@ -66,10 +70,6 @@
         {
           "titulo": "CNBB abre consulta sobre a Campanha de 2023!",
           "url": "https://www.youtube.com/watch?v=kU4YpZI7ulE"
-        },
-        {
-          "titulo": "Veja o estúdio que montamos com a sua ajuda!",
-          "url": "https://www.youtube.com/watch?v=wq5-vx5U_kU"
         }
       ]
     },
@@ -248,6 +248,18 @@
       "cor": "#DCDCDC",
       "videos": [
         {
+          "titulo": "Investigação Paralela | Ep.3: A Morte de Teori Zavascki ",
+          "url": "https://www.youtube.com/watch?v=LmP8CppJf9Q"
+        },
+        {
+          "titulo": "Nikolas conta que dirigiu por horas para conhecer Olavo de Carvalho nos EUA",
+          "url": "https://www.youtube.com/watch?v=IpDFvpuuM6I"
+        },
+        {
+          "titulo": "Nikolas Ferreira destaca os frutos de seu trabalho",
+          "url": "https://www.youtube.com/watch?v=io48YCUrqfo"
+        },
+        {
           "titulo": "Nikolas Ferreira revela o que o deixa put* no cenário político",
           "url": "https://www.youtube.com/watch?v=cXgGc8d0nqg"
         },
@@ -262,18 +274,6 @@
         {
           "titulo": "Victor Sorrentino: Eu quis dar água para uma mulher e quase fui espancado",
           "url": "https://www.youtube.com/watch?v=0-agvU-IFMc"
-        },
-        {
-          "titulo": "Victor Sorrentino narra momentos de tensão em cela egípcia",
-          "url": "https://www.youtube.com/watch?v=XTb3jUWftgM"
-        },
-        {
-          "titulo": "Médico, Victor Sorrentino fala sobre sua relação com Deus",
-          "url": "https://www.youtube.com/watch?v=MW2gILaqlo0"
-        },
-        {
-          "titulo": "Victor Sorrentino se emociona ao explicar como foi preso no Egito",
-          "url": "https://www.youtube.com/watch?v=pPyGt9-t3zU"
         }
       ]
     },
@@ -282,7 +282,11 @@
       "cor": "#ED285F",
       "videos": [
         {
-          "titulo": "Fale com o Doc. #006",
+          "titulo": "Psicólogo, as queixas de seu paciente ultrapassam sua técnica? Saiba o que fazer.",
+          "url": "https://www.youtube.com/watch?v=eCTd3lLwqkk"
+        },
+        {
+          "titulo": "A vida madura consiste em não jogar cargas nas pessoas que você ama | Fale com o Doc. #006",
           "url": "https://www.youtube.com/watch?v=vGwioz_CNow"
         },
         {
@@ -304,10 +308,6 @@
         {
           "titulo": "Se você é coach, assista a este vídeo",
           "url": "https://www.youtube.com/watch?v=zyoOC4i5-jI"
-        },
-        {
-          "titulo": "A dignidade de um homem transita entre a liberdade e a responsabilidade | Fale com o Doc. #003",
-          "url": "https://www.youtube.com/watch?v=DjHRXwy51EY"
         }
       ]
     },
