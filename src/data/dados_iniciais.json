@@ -146,6 +146,10 @@
       "cor": "#1A293A",
       "videos": [
         {
+          "titulo": "JOVENS, VALORIZEM-SE!",
+          "url": "https://www.youtube.com/watch?v=r7CZ3b6T1NA"
+        },
+        {
           "titulo": "Como controlar meus filhos na Igreja?",
           "url": "https://www.youtube.com/watch?v=0kitH2f1CXM"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "Santidade da Família - Projeto Sede Santos",
           "url": "https://www.youtube.com/watch?v=Tj81k-9tnfM"
-        },
-        {
-          "titulo": "Nunca faça isso na Igreja!",
-          "url": "https://www.youtube.com/watch?v=6-unNSR4bnA"
         }
       ]
     },
@@ -248,7 +248,11 @@
       "cor": "#DCDCDC",
       "videos": [
         {
-          "titulo": "Investigação Paralela | Ep.3: A Morte de Teori Zavascki ",
+          "titulo": "Você conhece o significado do símbolo dos Templários?",
+          "url": "https://www.youtube.com/watch?v=WQNaeNijXgI"
+        },
+        {
+          "titulo": "Investigação Paralela | Ep.3: A Morte de Teori Zavascki",
           "url": "https://www.youtube.com/watch?v=LmP8CppJf9Q"
         },
         {
@@ -269,11 +273,7 @@
         },
         {
           "titulo": "A história dos Cavaleiros Templários | Insight BP",
-          "url": "https://www.youtube.com/watch?v=PK41CX3U1Ks"
-        },
-        {
-          "titulo": "Victor Sorrentino: Eu quis dar água para uma mulher e quase fui espancado",
-          "url": "https://www.youtube.com/watch?v=0-agvU-IFMc"
+          "url": "https://www.youtube.com/watch?v=0oIr9HvbSY8"
         }
       ]
     },
@@ -281,6 +281,10 @@
       "titulo": "Italo Marsili",
       "cor": "#ED285F",
       "videos": [
+        {
+          "titulo": "Fale com o Doc. #007",
+          "url": "https://www.youtube.com/watch?v=rMsMp3ggeVc"
+        },
         {
           "titulo": "Psicólogo, as queixas de seu paciente ultrapassam sua técnica? Saiba o que fazer.",
           "url": "https://www.youtube.com/watch?v=eCTd3lLwqkk"
@@ -304,10 +308,6 @@
         {
           "titulo": "O caminho do fato real até a fórmula moral não é sempre óbvio | Fale com o Doc. #004",
           "url": "https://www.youtube.com/watch?v=CVMJex7wGm8"
-        },
-        {
-          "titulo": "Se você é coach, assista a este vídeo",
-          "url": "https://www.youtube.com/watch?v=zyoOC4i5-jI"
         }
       ]
     },
