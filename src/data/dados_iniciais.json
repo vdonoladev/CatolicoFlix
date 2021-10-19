@@ -180,6 +180,10 @@
       "cor": "#E00507",
       "videos": [
         {
+          "titulo": "O Dever de Perdoar",
+          "url": "https://www.youtube.com/watch?v=t__xC-ecl7Q"
+        },
+        {
           "titulo": "Os Milagres",
           "url": "https://www.youtube.com/watch?v=RekSYD_dQ5s"
         },
@@ -202,10 +206,6 @@
         {
           "titulo": "Os Inimigos da Alma",
           "url": "https://www.youtube.com/watch?v=vr-UioCfUAY"
-        },
-        {
-          "titulo": "A Reparação dos Pecados",
-          "url": "https://www.youtube.com/watch?v=lg5GOwD8njI"
         }
       ]
     },
