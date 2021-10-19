@@ -112,6 +112,10 @@
       "cor": "#C08F29",
       "videos": [
         {
+          "titulo": "Um curso sobre o DNA da fé católica",
+          "url": "https://www.youtube.com/watch?v=D-shW9g46J8"
+        },
+        {
           "titulo": "Carlo Acutis e a mensagem de Fátima",
           "url": "https://www.youtube.com/watch?v=6ijp_rO0QnE"
         },
@@ -134,10 +138,6 @@
         {
           "titulo": "CHEGOU O GRANDE DIA!",
           "url": "https://www.youtube.com/watch?v=6PaasJ7f9qs"
-        },
-        {
-          "titulo": "Você foi feito para amar Jesus!",
-          "url": "https://www.youtube.com/watch?v=kPcAiiOeVwo"
         }
       ]
     },
