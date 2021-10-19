@@ -316,6 +316,10 @@
       "cor": "#3F9C7A",
       "videos": [
         {
+          "titulo": "TAPA CULTURAL #22 - Conan e a crise da masculinidade",
+          "url": "https://www.youtube.com/watch?v=_boAQMSmOgk"
+        },
+        {
           "titulo": "TAPA CULTURAL #21 - Entrevista com ALLAN DOS SANTOS",
           "url": "https://www.youtube.com/watch?v=-ORsSx5hTZY"
         },
@@ -338,10 +342,6 @@
         {
           "titulo": "TAPA CULTURAL #17 - Linguagem neutra: artifício totalitário",
           "url": "https://www.youtube.com/watch?v=qhyPwm1vopU"
-        },
-        {
-          "titulo": "Coalizão KGB: 1.000 dias de Bolsonaro",
-          "url": "https://www.youtube.com/watch?v=aA5QHGZwVMk"
         }
       ]
     }
