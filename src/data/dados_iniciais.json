@@ -282,6 +282,10 @@
       "cor": "#ED285F",
       "videos": [
         {
+          "titulo": "Dominando a arte do diagnóstico",
+          "url": "https://www.youtube.com/watch?v=DfT29xS5Ays"
+        },
+        {
           "titulo": "Meu recado para todos. Por favor, ouçam.",
           "url": "https://www.youtube.com/watch?v=ka349dZcfBQ"
         },
@@ -304,10 +308,6 @@
         {
           "titulo": "Psicólogo, as queixas de seu paciente ultrapassam sua técnica? Saiba o que fazer.",
           "url": "https://www.youtube.com/watch?v=eCTd3lLwqkk"
-        },
-        {
-          "titulo": "A vida madura consiste em não jogar cargas nas pessoas que você ama | Fale com o Doc. #006",
-          "url": "https://www.youtube.com/watch?v=vGwioz_CNow"
         }
       ]
     },
