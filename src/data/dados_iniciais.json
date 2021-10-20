@@ -248,6 +248,10 @@
       "cor": "#DCDCDC",
       "videos": [
         {
+          "titulo": "Por que os filmes de hoje estão mudando os símbolos do passado?",
+          "url": "https://www.youtube.com/watch?v=OjszJ6pvANk"
+        },
+        {
           "titulo": "LEGALIZAÇÃO DA MACONHA | Conversa Paralela - [Marcus Lins e Cristiano Chiocca]",
           "url": "https://www.youtube.com/watch?v=inyZ2_dp-Rw"
         },
@@ -270,10 +274,6 @@
         {
           "titulo": "O cinema pode ser usado como ferramenta política?",
           "url": "https://www.youtube.com/watch?v=Gv9_KilfslA"
-        },
-        {
-          "titulo": "Entenda a quarta camada da personalidade de Olavo de Carvalho",
-          "url": "https://www.youtube.com/watch?v=CrMk8pjPU0M"
         }
       ]
     },
