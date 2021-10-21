@@ -146,6 +146,10 @@
       "cor": "#1A293A",
       "videos": [
         {
+          "titulo": "É PECADO SER VEGANO?",
+          "url": "https://www.youtube.com/watch?v=HmzTblAuZdg"
+        },
+        {
           "titulo": "JOVENS, VALORIZEM-SE!",
           "url": "https://www.youtube.com/watch?v=r7CZ3b6T1NA"
         },
@@ -168,10 +172,6 @@
         {
           "titulo": "Você tem PREGUIÇA de ir à MISSA?",
           "url": "https://www.youtube.com/watch?v=iBVmt-JD3Gw"
-        },
-        {
-          "titulo": "Santidade da Família - Projeto Sede Santos",
-          "url": "https://www.youtube.com/watch?v=Tj81k-9tnfM"
         }
       ]
     },
